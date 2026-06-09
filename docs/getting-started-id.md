@@ -2,6 +2,10 @@
 
 Panduan ini dibuat untuk pemula Indonesia yang ingin mulai membangun project dengan bantuan AI.
 
+## English summary
+
+This guide helps Indonesian beginners start an AI-assisted project using a simple workflow: define the project goal, prepare a PRD or brief, use Claude or Codex with clear instructions, save the work in GitHub, publish the project, and improve it step by step.
+
 ## Tujuan
 
 Setelah mengikuti panduan ini, kamu bisa:
@@ -24,21 +28,37 @@ Setelah mengikuti panduan ini, kamu bisa:
 8. Minta feedback
 9. Iterasi
 
+## Mulai dari struktur project sederhana
+
+Kalau kamu masih baru, mulai dari contoh struktur project ini:
+
+- [`examples/beginner-project-structure/README.md`](../examples/beginner-project-structure/README.md)
+
+Contoh ini membantu kamu memahami fungsi folder seperti:
+
+- `docs/`
+- `public/`
+- `src/`
+- `prompts/`
+
 ## Pilih jenis project
 
 Untuk produk digital:
 
-- Gunakan examples/digital-product-landing-page
-- Gunakan templates/prd-template.md
+- Gunakan [`templates/landing-page-brief.md`](../templates/landing-page-brief.md)
+- Gunakan [`templates/prd-template.md`](../templates/prd-template.md)
 
 Untuk creator brand:
 
-- Gunakan examples/creator-brand-website
-- Gunakan templates/brand-guideline-template.md
+- Gunakan [`templates/brand-guideline-template.md`](../templates/brand-guideline-template.md)
+- Gunakan [`templates/prd-template.md`](../templates/prd-template.md)
 
 Untuk local business:
 
-- Gunakan examples/local-business-website
+- Gunakan [`templates/prd-template.md`](../templates/prd-template.md)
+- Gunakan [`templates/brand-guideline-template.md`](../templates/brand-guideline-template.md) jika project membutuhkan identitas brand
+
+Example khusus untuk kategori produk digital, creator brand, dan local business masih direncanakan dan akan ditambahkan bertahap.
 
 ## Prinsip penting
 
@@ -52,6 +72,14 @@ AI akan lebih berguna kalau kamu memberi konteks yang jelas:
 - Seperti apa tampilannya?
 - Apa saja batasannya?
 
+## Jika menemukan istilah yang belum familiar
+
+Buka glossary:
+
+- [`docs/glossary-id.md`](glossary-id.md)
+
+Glossary ini menjelaskan istilah seperti PRD, brief, commit, issue, pull request, deploy, UI, UX, dan workflow dengan bahasa sederhana.
+
 ## Next step
 
-Buka templates/prd-template.md, lalu isi sesuai project kamu.
+Buka [`templates/prd-template.md`](../templates/prd-template.md), lalu isi sesuai project kamu.
