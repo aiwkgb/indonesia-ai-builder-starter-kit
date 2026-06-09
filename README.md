@@ -29,14 +29,10 @@ templates/
   codex-agent-instruction.md
   vercel-deploy-checklist.md
 
-examples/
-  digital-product-landing-page/
-  creator-brand-website/
-  local-business-website/
-
 docs/
   getting-started-id.md
   workflow-claude-codex-github.md
+  glossary-id.md
   roadmap.md
 
 checklists/
@@ -45,42 +41,69 @@ checklists/
   ai-workflow.md
 ```
 
+Planned example folders:
+
+```text
+examples/
+  beginner-project-structure/
+  digital-product-landing-page/
+  creator-brand-website/
+  local-business-website/
+```
+
 ## Quick start
 
 1. Read [`docs/getting-started-id.md`](docs/getting-started-id.md)
-2. Pick a project type from the `examples/` folder
-3. Copy the relevant template from `templates/`
+2. Open [`docs/glossary-id.md`](docs/glossary-id.md) if you find unfamiliar terms
+3. Copy a relevant template from `templates/`
 4. Use the Claude/Codex instruction file as your project brief
 5. Push your project to GitHub
 6. Deploy to Vercel using the deployment checklist
+7. Create issues for improvements and iterate step by step
+
+## Available docs
+
+- [`docs/getting-started-id.md`](docs/getting-started-id.md) — beginner guide to start using this starter kit
+- [`docs/workflow-claude-codex-github.md`](docs/workflow-claude-codex-github.md) — simple workflow for planning, building, saving, deploying, and iterating
+- [`docs/glossary-id.md`](docs/glossary-id.md) — Indonesian glossary for common AI builder and open-source terms
+- [`docs/roadmap.md`](docs/roadmap.md) — public roadmap for upcoming improvements
+
+## Available templates
+
+- [`templates/prd-template.md`](templates/prd-template.md) — project requirements document template
+- [`templates/brand-guideline-template.md`](templates/brand-guideline-template.md) — brand guideline template
+- [`templates/landing-page-brief.md`](templates/landing-page-brief.md) — landing page brief template
+- [`templates/claude-project-instruction.md`](templates/claude-project-instruction.md) — Claude project instruction template
+- [`templates/codex-agent-instruction.md`](templates/codex-agent-instruction.md) — Codex agent instruction template
+- [`templates/vercel-deploy-checklist.md`](templates/vercel-deploy-checklist.md) — deployment checklist for Vercel
 
 ## Example use cases
+
+Examples are planned and will be added gradually. The initial categories are:
 
 ### 1. Digital product landing page
 
 Use this if you want to sell an eBook, template, workbook, mini-course, checklist, prompt pack, or other digital product.
 
-Start here:
+Helpful starting template:
 
-- [`examples/digital-product-landing-page/README.md`](examples/digital-product-landing-page/README.md)
 - [`templates/landing-page-brief.md`](templates/landing-page-brief.md)
 
 ### 2. Creator brand website
 
 Use this if you are building a personal brand, creator portfolio, or creator-led business.
 
-Start here:
+Helpful starting template:
 
-- [`examples/creator-brand-website/README.md`](examples/creator-brand-website/README.md)
 - [`templates/brand-guideline-template.md`](templates/brand-guideline-template.md)
 
 ### 3. Local business website
 
 Use this if you are helping a local business create a simple professional website.
 
-Start here:
+Helpful starting template:
 
-- [`examples/local-business-website/README.md`](examples/local-business-website/README.md)
+- [`templates/prd-template.md`](templates/prd-template.md)
 
 ## Project philosophy
 
