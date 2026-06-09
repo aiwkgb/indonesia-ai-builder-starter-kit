@@ -6,7 +6,12 @@
 - Added MIT License
 - Added contributing guide
 - Added code of conduct
-- Added project templates
-- Added example project categories
+- Added beginner documentation
+- Added Indonesian AI builder glossary
+- Added starter templates
+- Added landing page brief template
+- Added beginner project structure example
 - Added beginner checklists
 - Added roadmap
+- Improved README links and resource navigation
+- Added bilingual summaries to selected docs
