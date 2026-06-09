@@ -39,13 +39,15 @@ checklists/
   github-setup.md
   landing-page-audit.md
   ai-workflow.md
+
+examples/
+  beginner-project-structure/
 ```
 
 Planned example folders:
 
 ```text
 examples/
-  beginner-project-structure/
   digital-product-landing-page/
   creator-brand-website/
   local-business-website/
@@ -55,11 +57,12 @@ examples/
 
 1. Read [`docs/getting-started-id.md`](docs/getting-started-id.md)
 2. Open [`docs/glossary-id.md`](docs/glossary-id.md) if you find unfamiliar terms
-3. Copy a relevant template from `templates/`
-4. Use the Claude/Codex instruction file as your project brief
-5. Push your project to GitHub
-6. Deploy to Vercel using the deployment checklist
-7. Create issues for improvements and iterate step by step
+3. Review [`examples/beginner-project-structure/README.md`](examples/beginner-project-structure/README.md) to understand a simple project folder structure
+4. Copy a relevant template from `templates/`
+5. Use the Claude/Codex instruction file as your project brief
+6. Push your project to GitHub
+7. Deploy to Vercel using the deployment checklist
+8. Create issues for improvements and iterate step by step
 
 ## Available docs
 
@@ -77,11 +80,23 @@ examples/
 - [`templates/codex-agent-instruction.md`](templates/codex-agent-instruction.md) — Codex agent instruction template
 - [`templates/vercel-deploy-checklist.md`](templates/vercel-deploy-checklist.md) — deployment checklist for Vercel
 
+## Available examples
+
+- [`examples/beginner-project-structure/README.md`](examples/beginner-project-structure/README.md) — simple folder structure for a beginner AI-assisted project
+
+More examples are planned and will be added gradually.
+
 ## Example use cases
 
-Examples are planned and will be added gradually. The initial categories are:
+### 1. Beginner project structure
 
-### 1. Digital product landing page
+Use this if you are new to AI-assisted building and want to understand where to put files such as README, PRD, brand guideline, assets, components, and AI prompts.
+
+Start here:
+
+- [`examples/beginner-project-structure/README.md`](examples/beginner-project-structure/README.md)
+
+### 2. Digital product landing page
 
 Use this if you want to sell an eBook, template, workbook, mini-course, checklist, prompt pack, or other digital product.
 
@@ -89,7 +104,7 @@ Helpful starting template:
 
 - [`templates/landing-page-brief.md`](templates/landing-page-brief.md)
 
-### 2. Creator brand website
+### 3. Creator brand website
 
 Use this if you are building a personal brand, creator portfolio, or creator-led business.
 
@@ -97,7 +112,7 @@ Helpful starting template:
 
 - [`templates/brand-guideline-template.md`](templates/brand-guideline-template.md)
 
-### 3. Local business website
+### 4. Local business website
 
 Use this if you are helping a local business create a simple professional website.
 
