@@ -1,5 +1,13 @@
 # Roadmap
 
+## English summary
+
+This roadmap shows the planned development path for Indonesia AI Builder Starter Kit.
+
+## Ringkasan Bahasa Indonesia
+
+Roadmap ini menunjukkan arah pengembangan Indonesia AI Builder Starter Kit secara bertahap.
+
 ## v0.1.0
 
 - Initial README
