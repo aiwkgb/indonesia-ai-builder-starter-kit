@@ -6,6 +6,4 @@ Open-source starter kit for Indonesian creators, students, solo founders, and sm
 
 ## Why this exists
 
-Many Indonesian beginners want to build websites, landing pages, digital products, and simple AI-assisted systems, but the learning path is often scattered, too technical, and mostly written for experienced English-speaking developers.
-
-This project turns real AI-assisted building workflows into reusable
+Many Indonesian beginners want to build websites, landing pages, digital
