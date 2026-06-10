@@ -4,6 +4,9 @@ Open-source starter kit for Indonesian creators, students, solo founders, and sm
 
 > Bahasa Indonesia-first. Beginner-friendly. Built for real-world execution.
 
-## Why this exists
+## Start here
 
-Many Indonesian beginners want to build websites, landing pages, digital products, and simple AI-assisted systems, but the learning
+- [Getting started](docs/getting-started-id.md)
+- [Workflow: Claude + Codex + GitHub](docs/workflow-claude-codex-github.md)
+- [Glossary Indonesia](docs/glossary-id.md)
+- [Road
