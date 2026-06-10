@@ -16,4 +16,12 @@ Open-source starter kit for Indonesian beginner AI builders.
 
 ## Templates
 
-Use the `templates
+Open the templates folder for PRD, brand guideline, landing page brief, Claude instruction, Codex instruction, and Vercel deploy checklist.
+
+## Contributing
+
+Read [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## License
+
+MIT License. See [LICENSE](LICENSE).
