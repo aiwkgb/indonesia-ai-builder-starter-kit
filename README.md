@@ -16,8 +16,4 @@ Open-source starter kit for Indonesian beginner AI builders.
 
 ## Templates
 
-See the `templates/` folder.
-
-## Contributing
-
-Read
+Use the `templates
