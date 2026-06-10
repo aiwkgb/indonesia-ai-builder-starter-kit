@@ -7,6 +7,4 @@ Open-source starter kit for Indonesian creators, students, solo founders, and sm
 ## Start here
 
 - [Getting started](docs/getting-started-id.md)
-- [Workflow: Claude + Codex + GitHub](docs/workflow-claude-codex-github.md)
-- [Glossary Indonesia](docs/glossary-id.md)
-- [Road
+- [Workflow: Claude + Codex + GitHub](docs/workflow
