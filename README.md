@@ -1,10 +1,23 @@
 # Indonesia AI Builder Starter Kit
 
-Open-source starter kit for Indonesian creators, students, solo founders, and small businesses who want to build practical AI-assisted projects using Claude, Codex, GitHub, and Vercel.
-
-> Bahasa Indonesia-first. Beginner-friendly. Built for real-world execution.
+Open-source starter kit for Indonesian beginner AI builders.
 
 ## Start here
 
 - [Getting started](docs/getting-started-id.md)
-- [Workflow: Claude + Codex + GitHub](docs/workflow
+- [Workflow](docs/workflow-claude-codex-github.md)
+- [Glossary](docs/glossary-id.md)
+- [Roadmap](docs/roadmap.md)
+
+## Examples
+
+- [Beginner project structure](examples/beginner-project-structure/README.md)
+- [Digital product landing page](examples/digital-product-landing-page/README.md)
+
+## Templates
+
+See the `templates/` folder.
+
+## Contributing
+
+Read
