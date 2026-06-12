@@ -1,5 +1,19 @@
 # Changelog
 
+## v0.2.0 - In progress
+
+Bagian ini mencatat peningkatan setelah v0.1.0 untuk kualitas template, onboarding pemula, dan persiapan release berikutnya.
+
+- Improved beginner PRD template.
+- Improved beginner brand guideline template.
+- Improved Claude project instruction template.
+- Improved Codex agent instruction template.
+- Improved beginner landing page brief template.
+- Added beginner Vercel deploy checklist.
+- Improved checklist and documentation quality for beginner AI-assisted workflows.
+
+Catatan: perubahan ini adalah bagian dari persiapan v0.2.0 yang masih berjalan dan tidak berarti project sudah punya adopsi luas atau tingkat kematangan production.
+
 ## v0.1.0 — Initial open-source foundation
 
 - Added README with project positioning
