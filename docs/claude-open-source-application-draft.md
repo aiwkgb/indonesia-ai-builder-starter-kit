@@ -4,6 +4,20 @@ This document is a working draft for applying to Claude for Open Source.
 
 It is intentionally written with honest positioning. The project is still early, so the application should focus on clear purpose, public educational value, maintainer commitment, and concrete open-source work already completed.
 
+This draft is primarily written in English because it is intended for an application context. The Indonesian summary below helps the maintainer and local contributors understand the positioning clearly.
+
+## Ringkasan Bahasa Indonesia
+
+Dokumen ini adalah draft kerja untuk aplikasi Claude for Open Source.
+
+Positioning utama project:
+
+> Early open-source educational infrastructure for Indonesian beginner AI builders.
+
+Fokus aplikasi ini bukan mengklaim traction besar, melainkan menunjukkan bahwa repository ini adalah fondasi awal yang public, aktif dirapikan, dan berisi dokumentasi, template, checklist, glossary, prompt examples, serta contoh project untuk membantu pemula Indonesia membangun project AI-assisted secara lebih terstruktur.
+
+Gunakan bahasa yang jujur, profesional, dan tidak berlebihan. Hindari klaim seperti banyak user, banyak stars, atau sudah widely adopted jika belum ada bukti nyata.
+
 ## Project name
 
 Indonesia AI Builder Starter Kit
@@ -62,7 +76,10 @@ The current public repository includes:
 - GitHub setup checklist
 - AI workflow checklist
 - Landing page audit checklist
+- AI project audit checklist
 - Beginner project structure example
+- Digital product landing page example
+- Claude and Codex prompt pack examples
 - GitHub issue templates
 
 ## Why Claude is relevant
@@ -124,19 +141,17 @@ The goal is to grow the project gradually and transparently instead of overclaim
 
 The project has reached an initial `v0.1.0` foundation stage.
 
-This milestone includes the first set of docs, templates, checklists, glossary, and beginner project structure example.
+This milestone includes the first set of docs, templates, checklists, glossary, prompt examples, and beginner project structure examples.
 
 ## Near-term roadmap
 
 Next planned improvements include:
 
-- More bilingual English and Indonesian documentation
-- More real-world example project folders
-- Improved consistency across templates
-- Beginner-friendly contribution paths
-- More prompt packs for Claude and Codex
-- Simple landing page example structure
-- AI project audit checklist
+- Complete bilingual English and Indonesian documentation structure for key docs
+- Add more real-world example project folders
+- Improve beginner-friendly contribution paths
+- Add lightweight contributor onboarding notes
+- Review documentation consistency before the next release
 
 ## Suggested application answer: What are you building?
 
@@ -170,7 +185,7 @@ Claude can also help users of this starter kit turn rough ideas into structured 
 
 ## Suggested application answer: What have you already built?
 
-The public repository already includes the initial open-source foundation: README, MIT License, contribution guide, code of conduct, changelog, roadmap, beginner documentation, workflow guide, Indonesian AI builder glossary, starter templates, checklists, issue templates, and a beginner project structure example.
+The public repository already includes the initial open-source foundation: README, MIT License, contribution guide, code of conduct, changelog, roadmap, beginner documentation, workflow guide, Indonesian AI builder glossary, starter templates, checklists, issue templates, prompt pack examples, a digital product landing page example, and beginner project structure examples.
 
 The project is still early, but it is being developed publicly with a clear roadmap and a focus on honest, beginner-friendly educational value.
 
