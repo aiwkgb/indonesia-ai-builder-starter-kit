@@ -30,7 +30,18 @@ It provides practical templates, docs, checklists, and examples for AI-assisted 
 
 ## Templates
 
-Open the templates folder for PRD, brand guideline, landing page brief, Claude instruction, Codex instruction, and Vercel deploy checklist.
+- [PRD template](templates/prd-template.md)
+- [Brand guideline template](templates/brand-guideline-template.md)
+- [Landing page brief template](templates/landing-page-brief.md)
+- [Claude project instruction template](templates/claude-project-instruction.md)
+- [Codex agent instruction template](templates/codex-agent-instruction.md)
+- [Vercel deploy checklist](templates/vercel-deploy-checklist.md)
+
+## Project notes
+
+- [Changelog](CHANGELOG.md)
+- [Release notes v0.2.0](docs/release-notes-v0.2.0.md)
+- [Claude Open Source application draft](docs/claude-open-source-application-draft.md)
 
 ## Contributing
 
