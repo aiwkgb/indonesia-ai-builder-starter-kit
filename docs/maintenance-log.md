@@ -22,3 +22,4 @@ Use this log only for lightweight notes, not as a replacement for issues, pull r
 - Added beginner-friendly issue templates for documentation and example requests.
 - Added issue template chooser config.
 - Added contributor navigation and v0.2.0 planning notes.
+- Updated v0.2.0 documentation polishing notes: improved beginner-facing templates, added Vercel deploy checklist, updated changelog and release notes, refreshed Claude OSS draft, reviewed README links, and updated v0.2.0 planning notes.
