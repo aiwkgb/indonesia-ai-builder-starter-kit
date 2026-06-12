@@ -73,6 +73,7 @@ The current public repository includes:
 - Claude project instruction template
 - Codex agent instruction template
 - Vercel deployment checklist
+- v0.2.0 release notes
 - GitHub setup checklist
 - AI workflow checklist
 - Landing page audit checklist
@@ -139,19 +140,35 @@ The goal is to grow the project gradually and transparently instead of overclaim
 
 ## Current milestone
 
-The project has reached an initial `v0.1.0` foundation stage.
+The project has reached an initial `v0.1.0` foundation stage and is now being prepared toward `v0.2.0`.
 
 This milestone includes the first set of docs, templates, checklists, glossary, prompt examples, and beginner project structure examples.
+
+## Recent v0.2.0 polishing work
+
+Recent work has focused on improving template quality, beginner clarity, and contributor readiness.
+
+The following resources were polished for clearer beginner usage:
+
+- PRD template
+- Brand guideline template
+- Claude project instruction template
+- Codex agent instruction template
+- Landing page brief template
+- Beginner Vercel deploy checklist
+
+The changelog and v0.2.0 release notes now document this progress more clearly. These updates are part of ongoing release preparation and do not imply wide adoption, production maturity, or large ecosystem impact.
 
 ## Near-term roadmap
 
 Next planned improvements include:
 
-- Complete bilingual English and Indonesian documentation structure for key docs
+- Final documentation audit before v0.2.0
 - Add more real-world example project folders
-- Improve beginner-friendly contribution paths
-- Add lightweight contributor onboarding notes
+- Update README if needed
+- Improve Claude Open Source application draft
 - Review documentation consistency before the next release
+- Prepare release tag when the repository is ready
 
 ## Suggested application answer: What are you building?
 
@@ -159,7 +176,7 @@ I am building Indonesia AI Builder Starter Kit, an early open-source educational
 
 The project helps creators, students, solo founders, small business owners, and beginner builders learn how to plan, document, build, save, and improve practical AI-assisted projects using tools such as Claude, Codex, GitHub, and Vercel.
 
-The repository includes beginner-friendly documentation, templates, checklists, an Indonesian AI builder glossary, workflow guides, and simple example project structures.
+The repository includes beginner-friendly documentation, templates, checklists, an Indonesian AI builder glossary, workflow guides, release notes, and simple example project structures.
 
 ## Suggested application answer: Who does this help?
 
@@ -185,7 +202,9 @@ Claude can also help users of this starter kit turn rough ideas into structured 
 
 ## Suggested application answer: What have you already built?
 
-The public repository already includes the initial open-source foundation: README, MIT License, contribution guide, code of conduct, changelog, roadmap, beginner documentation, workflow guide, Indonesian AI builder glossary, starter templates, checklists, issue templates, prompt pack examples, a digital product landing page example, and beginner project structure examples.
+The public repository already includes the initial open-source foundation: README, MIT License, contribution guide, code of conduct, changelog, roadmap, beginner documentation, workflow guide, Indonesian AI builder glossary, starter templates, checklists, issue templates, prompt pack examples, a digital product landing page example, release notes, and beginner project structure examples.
+
+Recent v0.2.0 preparation improved the PRD template, brand guideline template, Claude project instruction template, Codex agent instruction template, landing page brief template, and beginner Vercel deploy checklist. The changelog and release notes now document this progress more clearly.
 
 The project is still early, but it is being developed publicly with a clear roadmap and a focus on honest, beginner-friendly educational value.
 
