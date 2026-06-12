@@ -1,5 +1,22 @@
 # Release Notes: v0.1.0
 
+Dokumen ini menggunakan bahasa Inggris sebagai format release notes utama, dengan ringkasan Bahasa Indonesia agar lebih mudah dipahami oleh contributor Indonesia.
+
+## Ringkasan Bahasa Indonesia
+
+`v0.1.0` adalah rilis fondasi awal untuk Indonesia AI Builder Starter Kit.
+
+Rilis ini berfokus pada dokumentasi, template, checklist, dan contoh struktur project agar pemula Indonesia bisa mulai memahami workflow AI-assisted building dengan lebih rapi.
+
+Isi utama rilis ini meliputi:
+
+- Dokumentasi awal untuk pemula
+- Glosarium AI builder dalam Bahasa Indonesia
+- Template PRD, brand guideline, landing page brief, Claude instruction, dan Codex instruction
+- Checklist GitHub, AI workflow, landing page audit, dan deployment ke Vercel
+- Contoh struktur project beginner-friendly
+- Fondasi kontribusi open-source seperti README, CONTRIBUTING, CODE_OF_CONDUCT, dan roadmap
+
 ## Initial open-source foundation
 
 `v0.1.0` is the first foundation release of Indonesia AI Builder Starter Kit.
@@ -109,12 +126,12 @@ It is an early educational starter kit focused on documentation, templates, work
 
 After this release, the project can continue with:
 
-- More real-world examples
-- More bilingual documentation
-- Improved template consistency
-- More beginner-friendly issue labels
-- Example landing page project structure
-- Project audit checklist
+- More bilingual documentation structure
+- More real-world example project categories
+- Reusable landing page section patterns
+- Beginner-friendly Vercel deployment walkthrough
+- Next.js starter template exploration
+- Clearer contributor onboarding for documentation improvements
 
 ## Suggested GitHub release title
 
