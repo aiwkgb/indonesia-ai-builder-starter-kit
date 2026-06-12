@@ -2,9 +2,15 @@
 
 Panduan ini dibuat untuk pemula Indonesia yang ingin mulai membangun project dengan bantuan AI.
 
+> Catatan: Panduan ini menggunakan Bahasa Indonesia sebagai bahasa utama. Bagian English summary disediakan agar contributor internasional bisa memahami konteks besarnya.
+
 ## English summary
 
-This guide helps Indonesian beginners start an AI-assisted project using a simple workflow: define the project goal, prepare a PRD or brief, use Claude or Codex with clear instructions, save the work in GitHub, publish the project, and improve it step by step.
+- This Indonesian-first guide helps beginner builders start AI-assisted projects with a simple workflow.
+- Start with a clear project brief before asking AI to write or edit code.
+- Choose a project type, fill in a PRD or relevant template, then use Claude or Codex with clear instructions.
+- Save the project in GitHub, deploy it with Vercel when ready, and improve it step by step.
+- This guide is intended for Indonesian creators, students, solo founders, small businesses, and beginner builders.
 
 ## Tujuan
 
@@ -13,7 +19,7 @@ Setelah mengikuti panduan ini, kamu bisa:
 - Membuat brief project yang jelas
 - Menggunakan Claude atau Codex dengan instruksi yang rapi
 - Menyusun struktur project di GitHub
-- Menyiapkan publikasi project
+- Menyiapkan deployment ke Vercel
 - Mengembangkan project secara bertahap
 
 ## Alur sederhana
@@ -24,7 +30,7 @@ Setelah mengikuti panduan ini, kamu bisa:
 4. Masukkan instruksi ke Claude atau Codex
 5. Buat atau edit project
 6. Simpan project di GitHub
-7. Publikasikan project
+7. Deploy ke Vercel saat project sudah siap
 8. Minta feedback
 9. Iterasi
 
