@@ -4,6 +4,17 @@ Contoh ini menunjukkan struktur project sederhana untuk pemula yang ingin memban
 
 Tujuannya bukan membuat struktur yang paling canggih, tetapi membuat struktur yang mudah dipahami, mudah dirawat, dan cukup rapi untuk mulai belajar.
 
+## Tujuan contoh ini
+
+Contoh ini dibuat sebagai panduan awal untuk memahami seperti apa susunan file dan folder project kecil yang dibantu AI.
+
+Gunakan contoh ini untuk belajar:
+
+- Menaruh dokumentasi, prompt, asset, dan source code di tempat yang jelas
+- Membuat project yang mudah dibaca lagi setelah beberapa hari
+- Memberi Claude atau Codex konteks yang cukup sebelum meminta bantuan coding
+- Menjaga perubahan tetap kecil, rapi, dan mudah direview
+
 ## Untuk siapa contoh ini?
 
 Gunakan contoh ini jika kamu:
@@ -29,6 +40,8 @@ Struktur ini cocok untuk project kecil sampai menengah seperti:
 Untuk project yang sudah besar, struktur ini bisa dikembangkan lagi sesuai kebutuhan.
 
 ## Struktur folder sederhana
+
+Struktur di bawah ini adalah contoh awal. Kamu tidak harus membuat semua folder sejak hari pertama. Mulai dari yang paling penting dulu, lalu tambahkan folder lain saat benar-benar dibutuhkan.
 
 ```text
 my-ai-assisted-project/
@@ -324,7 +337,34 @@ templates/codex-agent-instruction.md
 
 ## Alur kerja yang disarankan
 
-### 1. Mulai dari brief
+### 1. Mulai dari ide kecil
+
+Tentukan ide yang cukup kecil untuk dibuat dan direview.
+
+Contoh:
+
+- Landing page untuk produk digital sederhana
+- Website profil bisnis lokal
+- Portfolio personal satu halaman
+- Demo kecil untuk belajar prompt dan deploy
+
+Hindari memulai dari ide yang terlalu besar seperti marketplace, super app, atau SaaS lengkap.
+
+### 2. Tulis README singkat
+
+Sebelum banyak coding, tulis README sederhana dulu.
+
+Isi minimal:
+
+- Nama project
+- Tujuan project
+- Target user
+- Cara menjalankan project
+- Status project
+
+README membantu kamu, contributor, dan AI memahami arah project sejak awal.
+
+### 3. Tulis brief
 
 Jangan langsung coding.
 
@@ -336,7 +376,7 @@ Tulis dulu:
 - Hasil akhir yang diinginkan
 - Batasannya apa
 
-### 2. Isi PRD
+### 4. Isi PRD
 
 Gunakan:
 
@@ -350,7 +390,7 @@ Simpan hasilnya sebagai:
 docs/prd.md
 ```
 
-### 3. Isi brand guideline atau landing page brief
+### 5. Isi brand guideline atau landing page brief
 
 Untuk brand atau website creator, gunakan:
 
@@ -364,7 +404,7 @@ Untuk landing page produk digital, gunakan:
 templates/landing-page-brief.md
 ```
 
-### 4. Buat instruksi AI
+### 6. Buat instruksi AI
 
 Gunakan:
 
@@ -379,7 +419,7 @@ Simpan di folder:
 prompts/
 ```
 
-### 5. Bangun project bertahap
+### 7. Bangun project bertahap
 
 Minta AI mengerjakan satu task kecil dulu.
 
@@ -391,7 +431,7 @@ Contoh task yang kurang baik:
 
 > Buatkan semua project sampai sempurna.
 
-### 6. Review hasil
+### 8. Review hasil
 
 Cek:
 
@@ -401,7 +441,7 @@ Cek:
 - Apakah link tidak rusak?
 - Apakah file tersusun rapi?
 
-### 7. Commit ke GitHub
+### 9. Commit ke GitHub
 
 Gunakan commit message yang jelas.
 
@@ -419,13 +459,28 @@ docs: add project PRD
 fix: improve mobile hero spacing
 ```
 
-### 8. Deploy ke Vercel
+### 10. Deploy ke Vercel
 
 Gunakan checklist:
 
 ```text
 templates/vercel-deploy-checklist.md
 ```
+
+## Menggunakan Claude atau Codex dengan aman
+
+Claude dan Codex bisa membantu mempercepat pekerjaan, tetapi kamu tetap perlu memeriksa hasilnya.
+
+Prinsip sederhana:
+
+- Minta perubahan kecil dan spesifik.
+- Beri konteks dari README, PRD, atau brief.
+- Review diff sebelum commit.
+- Jalankan project setelah perubahan penting.
+- Jangan langsung menerima semua kode generated tanpa dibaca.
+- Hindari meminta AI mengubah banyak file sekaligus jika belum perlu.
+
+Untuk project pemula, perubahan yang kecil lebih mudah dipahami, diperbaiki, dan dibatalkan jika ada masalah.
 
 ## Contoh urutan commit untuk project pemula
 
