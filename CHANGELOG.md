@@ -1,8 +1,21 @@
 # Changelog
 
-## v0.2.0 - In progress
+## v0.3.0 - Preparation
 
-Bagian ini mencatat peningkatan setelah v0.1.0 untuk kualitas template, onboarding pemula, dan persiapan release berikutnya.
+Bagian ini mencatat persiapan dokumentasi untuk v0.3.0. v0.3.0 belum dirilis.
+
+- Added v0.3.0 release readiness checklist.
+- Improved v0.3.0 roadmap navigation and planning alignment.
+- Improved beginner-facing checklist clarity and flow.
+- Improved starter template guidance and consistency.
+- Improved beginner example documentation clarity.
+- Improved contributor guidance and issue template clarity.
+
+Catatan: bagian ini hanya mencatat persiapan release dan tidak berarti v0.3.0 sudah dipublikasikan.
+
+## v0.2.0 - Published
+
+Bagian ini mencatat peningkatan setelah v0.1.0 untuk kualitas template, onboarding pemula, dan persiapan v0.2.0.
 
 - Improved beginner PRD template.
 - Improved beginner brand guideline template.
@@ -12,7 +25,7 @@ Bagian ini mencatat peningkatan setelah v0.1.0 untuk kualitas template, onboardi
 - Added beginner Vercel deploy checklist.
 - Improved checklist and documentation quality for beginner AI-assisted workflows.
 
-Catatan: perubahan ini adalah bagian dari persiapan v0.2.0 yang masih berjalan dan tidak berarti project sudah punya adopsi luas atau tingkat kematangan production.
+Catatan: perubahan ini tidak berarti project sudah punya adopsi luas atau tingkat kematangan production.
 
 ## v0.1.0 — Initial open-source foundation
 

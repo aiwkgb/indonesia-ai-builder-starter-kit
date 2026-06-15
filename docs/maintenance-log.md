@@ -16,6 +16,11 @@ This note summarizes small documentation maintenance changes that support reposi
 
 Use this log only for lightweight notes, not as a replacement for issues, pull requests, changelog entries, or release notes.
 
+## 2026-06-15
+
+- Added v0.3.0 release readiness checklist for documentation, templates, examples, checklists, contributor support, and final manual review.
+- Noted the v0.3.0 documentation improvement batch covering roadmap alignment, beginner checklist clarity, template guidance, example documentation clarity, contributor guidance, and issue template clarity.
+
 ## 2026-06-12
 
 - Added `docs/README.md` as a documentation navigation index.
