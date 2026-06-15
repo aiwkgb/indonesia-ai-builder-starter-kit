@@ -39,6 +39,16 @@ Struktur ini cocok untuk project kecil sampai menengah seperti:
 
 Untuk project yang sudah besar, struktur ini bisa dikembangkan lagi sesuai kebutuhan.
 
+## Langkah berikutnya
+
+Jika kamu ingin memakai contoh ini, mulai dari versi paling kecil:
+
+1. Buat `README.md` singkat.
+2. Buat `docs/prd.md` dari template PRD.
+3. Buat folder `src/`, `public/`, dan `prompts/` hanya jika sudah dibutuhkan.
+4. Minta Claude atau Codex membantu satu task kecil saja.
+5. Review perubahan sebelum commit.
+
 ## Struktur folder sederhana
 
 Struktur di bawah ini adalah contoh awal. Kamu tidak harus membuat semua folder sejak hari pertama. Mulai dari yang paling penting dulu, lalu tambahkan folder lain saat benar-benar dibutuhkan.

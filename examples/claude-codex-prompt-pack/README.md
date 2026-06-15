@@ -13,6 +13,25 @@ Fokusnya sederhana:
 
 Gunakan prompt ini sebagai bahan belajar. Tetap baca ulang hasil AI sebelum dipakai, dicommit, atau dipublish.
 
+## Who this is for
+
+Use this prompt pack if you are:
+
+- Baru belajar memakai Claude atau Codex untuk project kecil
+- Ingin merapikan ide sebelum meminta AI membuat perubahan
+- Ingin membuat dokumentasi, checklist, atau issue yang mudah dipahami
+- Ingin menjaga task tetap kecil, jelas, dan bisa direview
+
+## When to use this prompt pack
+
+Gunakan prompt pack ini saat kamu:
+
+- Memulai project AI-assisted dari ide awal
+- Mereview README atau dokumentasi
+- Membuat GitHub issue kecil
+- Meminta Codex mengedit satu file dengan scope jelas
+- Ingin memastikan output AI tetap praktis dan tidak berlebihan
+
 ## When to use Claude
 
 Claude cocok dipakai untuk pekerjaan berpikir, merapikan ide, dan membuat rencana.

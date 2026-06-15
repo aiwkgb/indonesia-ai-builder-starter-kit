@@ -14,6 +14,17 @@ Gunakan contoh ini jika kamu:
 - Bingung harus mulai dari brief, copywriting, atau struktur file
 - Ingin membuat project kecil yang bisa dikembangkan bertahap
 
+## Kapan menggunakan contoh ini?
+
+Gunakan contoh ini setelah kamu punya ide produk digital sederhana, tetapi belum yakin bagaimana menyusun landing page, file project, dan workflow AI-assisted.
+
+Contoh ini paling berguna saat kamu ingin:
+
+- Mengubah ide produk menjadi struktur landing page
+- Menulis brief sebelum meminta bantuan Claude atau Codex
+- Membuat versi awal yang bisa direview dan diperbaiki bertahap
+- Mengecek halaman sebelum deploy ke Vercel
+
 ## Jenis produk yang cocok
 
 Contoh ini cocok untuk:
