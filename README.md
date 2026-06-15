@@ -21,11 +21,23 @@ It provides practical templates, docs, checklists, and examples for AI-assisted 
 - [Mulai dari Sini / Getting started](docs/getting-started-id.md)
 - [Workflow Claude + Codex + GitHub](docs/workflow-claude-codex-github.md)
 - [Indonesian AI builder glossary](docs/glossary-id.md)
+- [Documentation index](docs/README.md)
 - [Roadmap](docs/roadmap.md)
+- [v0.3.0 documentation roadmap](docs/v0.3.0-roadmap.md)
+
+## Find what you need
+
+- New to the repo? Start with [Mulai dari Sini / Getting started](docs/getting-started-id.md).
+- Planning a small project? Use the guides in `docs/` and the templates in `templates/`.
+- Looking for examples? Open `examples/` to see beginner project structures and prompt packs.
+- Reviewing before publish or deploy? Use the checklists in `checklists/`.
+- Want to contribute? Read [CONTRIBUTING.md](CONTRIBUTING.md) and check the GitHub Issues.
+- Following project direction? Read the high-level [Roadmap](docs/roadmap.md), then the detailed [v0.3.0 documentation roadmap](docs/v0.3.0-roadmap.md).
 
 ## Examples
 
 - [Beginner project structure](examples/beginner-project-structure/README.md)
+- [Claude + Codex prompt pack](examples/claude-codex-prompt-pack/README.md)
 - [Digital product landing page](examples/digital-product-landing-page/README.md)
 
 ## Templates

@@ -2,11 +2,14 @@
 
 This roadmap is Bahasa Indonesia-first with short English summaries so both Indonesian beginners and international contributors can understand the project direction.
 
+Use this file as the high-level roadmap. For the more detailed v0.3.0 planning document, see [`docs/v0.3.0-roadmap.md`](v0.3.0-roadmap.md).
+
 ## English summary
 
 - This roadmap shows the planned development path for Indonesia AI Builder Starter Kit.
 - The project grows through small, reviewable documentation, template, checklist, and example improvements.
 - The current documentation direction is to make key guides easier to understand in both Bahasa Indonesia and English.
+- The detailed v0.3.0 plan is tracked in [`docs/v0.3.0-roadmap.md`](v0.3.0-roadmap.md).
 - Future work should stay beginner-friendly, practical, and relevant to Indonesian creators, students, solo founders, small businesses, and beginner builders.
 
 ## Ringkasan Bahasa Indonesia
@@ -14,9 +17,10 @@ This roadmap is Bahasa Indonesia-first with short English summaries so both Indo
 - Roadmap ini menunjukkan arah pengembangan Indonesia AI Builder Starter Kit secara bertahap.
 - Project dikembangkan lewat perubahan kecil yang mudah direview: dokumentasi, template, checklist, dan contoh project.
 - Fokus dokumentasi saat ini adalah membuat panduan penting lebih mudah dipahami dalam Bahasa Indonesia dan English.
+- Detail rencana v0.3.0 ada di [`docs/v0.3.0-roadmap.md`](v0.3.0-roadmap.md).
 - Pengembangan berikutnya tetap harus beginner-friendly, praktis, dan relevan untuk creator, student, solo founder, UMKM, dan beginner builder Indonesia.
 
-## v0.1.0 — Published
+## v0.1.0 - Published
 
 - Initial README
 - Starter templates
@@ -38,10 +42,14 @@ This roadmap is Bahasa Indonesia-first with short English summaries so both Indo
 
 ## v0.3.0
 
-- Add simple starter project structure
-- Add user interface pattern examples
-- Add publishing walkthrough
-- Add beginner video or script outline
+- Improve beginner example project documentation
+- Continue bilingual documentation for important guides
+- Add small prompt packs for practical AI-assisted workflows
+- Improve contributor guidance for first-time contributors
+- Review issue templates for beginner clarity
+- Prepare simple learning paths for new AI builders
+
+See [`docs/v0.3.0-roadmap.md`](v0.3.0-roadmap.md) for the more detailed v0.3.0 planning document.
 
 ## Future ideas
 
