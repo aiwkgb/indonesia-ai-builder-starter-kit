@@ -2,6 +2,12 @@
 
 PRD berarti Product Requirements Document. Untuk pemula, PRD adalah rencana sederhana sebelum membangun project, supaya tujuan, pengguna, fitur, dan batasan lebih jelas sebelum meminta bantuan AI atau mulai coding.
 
+## Cara menggunakan template ini
+
+Isi bagian yang kamu tahu dulu. Jika ada bagian yang belum jelas, tulis `belum tahu` atau buat asumsi sementara agar bisa direview lagi nanti.
+
+Jaga jawaban tetap singkat dan praktis. PRD versi awal tidak harus sempurna.
+
 ## 1. Ringkasan project
 
 - Nama project:
@@ -23,6 +29,8 @@ PRD berarti Product Requirements Document. Untuk pemula, PRD adalah rencana sede
 - Bagaimana project ini membantu mereka?
 
 ## 4. Fitur utama
+
+Mulai dari fitur paling penting. Untuk versi awal, pilih sedikit fitur yang benar-benar dibutuhkan.
 
 | Fitur | Penjelasan singkat | Prioritas: Must have / Nice to have |
 | --- | --- | --- |
@@ -48,12 +56,16 @@ PRD berarti Product Requirements Document. Untuk pemula, PRD adalah rencana sede
 
 ## 7. AI-assisted workflow notes
 
+Gunakan bagian ini untuk mencatat bagian mana yang dibantu AI dan bagian mana yang perlu dicek manusia.
+
 - AI tools yang digunakan:
 - Bagian yang dibantu AI:
 - Bagian yang harus direview manusia:
 - Risiko yang perlu dicek:
 
 ## 8. Success criteria
+
+Tulis tanda sederhana bahwa versi awal sudah cukup untuk dites atau diminta feedback.
 
 - Project dianggap berhasil jika:
 - Minimal versi pertama harus bisa:

@@ -2,6 +2,12 @@
 
 Template ini membantu pemula merencanakan landing page sederhana sebelum menulis copy, membuat desain, atau membangun halaman dengan bantuan AI.
 
+## Cara menggunakan template ini
+
+Isi brief ini sebelum meminta AI menulis copy atau membuat halaman. Jawaban singkat lebih baik daripada menunggu semua detail sempurna.
+
+Gunakan brief ini untuk menjaga tujuan, audiens, offer, CTA, dan klaim tetap jelas.
+
 ## 1. Ringkasan landing page
 
 - Nama project/brand:
@@ -19,6 +25,8 @@ Template ini membantu pemula merencanakan landing page sederhana sebelum menulis
 
 ## 3. Offer atau value proposition
 
+Jelaskan manfaat secara realistis. Hindari janji hasil yang belum bisa dibuktikan.
+
 - Apa yang ditawarkan?
 - Kenapa ini berguna?
 - Apa hasil realistis yang bisa diharapkan?
@@ -32,6 +40,8 @@ Template ini membantu pemula merencanakan landing page sederhana sebelum menulis
 - Satu kalimat sederhana tentang landing page ini:
 
 ## 5. Struktur halaman
+
+Centang section yang benar-benar dibutuhkan untuk versi awal.
 
 - [ ] Hero section
 - [ ] Problem section
@@ -65,6 +75,8 @@ Gunakan hanya section yang relevan. Landing page sederhana tidak harus memakai s
 Masukkan hanya proof yang nyata dan bisa dicek.
 
 ## 8. Content and assets needed
+
+Gunakan bagian ini untuk mengecek bahan yang perlu disiapkan sebelum build.
 
 - [ ] Logo
 - [ ] Brand colors

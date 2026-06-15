@@ -2,6 +2,12 @@
 
 Template ini membantu pemula menentukan arah brand sederhana sebelum membuat website, konten, produk digital, atau project berbantuan AI.
 
+## Cara menggunakan template ini
+
+Isi template ini dengan jawaban singkat. Fokus pada arah brand versi awal, bukan brand guideline yang terlalu lengkap.
+
+Jika belum punya logo, warna, atau font, tulis preferensi sederhana dulu agar bisa dikembangkan bertahap.
+
 ## 1. Ringkasan brand
 
 - Nama brand:
@@ -25,6 +31,8 @@ Template ini membantu pemula menentukan arah brand sederhana sebelum membuat web
 
 ## 4. Brand personality
 
+Pilih beberapa sifat yang paling cocok. Tidak perlu memilih semuanya.
+
 - [ ] Ramah
 - [ ] Profesional
 - [ ] Santai
@@ -47,6 +55,8 @@ Template ini membantu pemula menentukan arah brand sederhana sebelum membuat web
 - Kata/frasa yang perlu dihindari:
 
 ## 6. Visual direction
+
+Gunakan referensi sederhana seperti warna, website, atau brand lain yang terasa cocok.
 
 - Warna utama:
 - Warna pendukung:
@@ -75,6 +85,8 @@ Template ini membantu pemula menentukan arah brand sederhana sebelum membuat web
 - [ ] Landing page headline
 
 ## 9. AI-assisted usage notes
+
+Catat batasan agar AI tidak membuat klaim atau gaya brand yang tidak sesuai.
 
 - Bagian brand yang boleh dibantu AI:
 - Bagian yang tetap harus direview manusia:

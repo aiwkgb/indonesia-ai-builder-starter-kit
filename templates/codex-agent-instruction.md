@@ -2,6 +2,12 @@
 
 Template ini membantu kamu memberi Codex scope task, batasan file, dan ekspektasi review yang jelas sebelum mengerjakan coding atau dokumentasi berbantuan AI.
 
+## Cara menggunakan template ini
+
+Isi template ini sebelum meminta Codex mengedit file. Fokuskan task pada perubahan kecil yang bisa direview lewat diff.
+
+Jika task menyentuh banyak file, pecah menjadi beberapa task kecil atau tulis batasan file dengan jelas.
+
 ## 1. Project context
 
 - Nama project:
@@ -25,12 +31,16 @@ Contoh role:
 
 ## 3. Current task
 
+Tulis task dengan jelas agar Codex tidak perlu menebak scope.
+
 - Issue/task:
 - File utama yang dikerjakan:
 - Perubahan yang diminta:
 - Output yang diharapkan:
 
 ## 4. Allowed files
+
+Bagian ini penting untuk menjaga perubahan tetap aman dan mudah direview.
 
 - File yang boleh diedit:
 - Folder yang boleh disentuh:
@@ -65,6 +75,8 @@ Jika sebuah file tidak tercantum sebagai file yang boleh diedit, jangan edit fil
 - [ ] Minta klarifikasi jika instruksi ambigu
 
 ## 8. Expected output from Codex
+
+Minta output ringkas agar hasil kerja mudah dicek sebelum commit.
 
 - [ ] Summary of changes
 - [ ] Files changed

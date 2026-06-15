@@ -2,7 +2,15 @@
 
 Checklist ini membantu pemula menyiapkan, deploy, dan mengecek project kecil di Vercel dengan lebih aman dan jelas.
 
+## Cara menggunakan checklist ini
+
+Gunakan checklist ini dari atas ke bawah. Jangan lompat ke deploy sebelum project bisa berjalan di local dan repo sudah dicek.
+
+Jika ada error, catat pesan error pertama lalu perbaiki satu per satu.
+
 ## 1. Before deploy
+
+Cek kesiapan project di komputer sebelum menghubungkan ke Vercel.
 
 - [ ] Project sudah bisa berjalan di local
 - [ ] README atau catatan project sudah cukup jelas
@@ -13,6 +21,8 @@ Checklist ini membantu pemula menyiapkan, deploy, dan mengecek project kecil di 
 
 ## 2. Repository check
 
+Pastikan GitHub sudah berisi versi project yang ingin dideploy.
+
 - [ ] Repo sudah di-push ke GitHub
 - [ ] Branch utama sudah jelas
 - [ ] Commit terakhir sudah sesuai task
@@ -20,6 +30,8 @@ Checklist ini membantu pemula menyiapkan, deploy, dan mengecek project kecil di 
 - [ ] Project status ditulis dengan jujur
 
 ## 3. Vercel setup
+
+Ikuti setup Vercel pelan-pelan dan cek nama repo sebelum deploy.
 
 - [ ] Login ke Vercel
 - [ ] Import project dari GitHub
@@ -39,6 +51,8 @@ Checklist ini membantu pemula menyiapkan, deploy, dan mengecek project kecil di 
 
 ## 5. After deploy
 
+Setelah deploy berhasil, buka hasilnya seperti user pertama kali.
+
 - [ ] Buka URL hasil deploy
 - [ ] Cek halaman utama
 - [ ] Cek tombol/link penting
@@ -57,6 +71,8 @@ Checklist ini membantu pemula menyiapkan, deploy, dan mengecek project kecil di 
 | Environment variable tidak terbaca | Variable belum ditambahkan di Vercel atau namanya berbeda | Cek nama variable di Vercel dan di kode |
 
 ## 7. Safety notes
+
+Gunakan bagian ini sebelum membagikan link atau screenshot hasil deploy.
 
 - [ ] Jangan share token atau secret di screenshot
 - [ ] Jangan memasukkan file `.env` ke repo public

@@ -2,6 +2,12 @@
 
 Template ini membantu kamu memberi Claude konteks project, batasan kerja, dan aturan bantuan yang jelas sebelum memulai workflow berbantuan AI.
 
+## Cara menggunakan template ini
+
+Isi template ini sebelum meminta Claude membantu planning, review, atau penulisan dokumentasi. Semakin jelas konteks dan batasannya, semakin mudah hasil Claude direview.
+
+Gunakan instruksi pendek dan spesifik. Jika task besar, pecah menjadi beberapa task kecil.
+
 ## 1. Project context
 
 - Nama project:
@@ -11,6 +17,8 @@ Template ini membantu kamu memberi Claude konteks project, batasan kerja, dan at
 - Status project saat ini:
 
 ## 2. Role for Claude
+
+Pilih role sesuai kebutuhan task. Claude bisa membantu berpikir dan mereview, tetapi hasilnya tetap perlu dicek manusia.
 
 - Claude berperan sebagai:
 - Cara Claude harus membantu:
@@ -41,6 +49,8 @@ Contoh role:
 
 ## 5. File boundaries
 
+Isi bagian ini jika Claude diminta memberi saran perubahan file atau struktur.
+
 - File/folder yang boleh diedit:
 - File/folder yang tidak boleh disentuh:
 - Batasan khusus:
@@ -62,6 +72,8 @@ Contoh role:
 - [ ] Tandai asumsi yang belum pasti
 
 ## 8. Preferred communication style
+
+Tulis gaya jawaban yang paling membantu untuk kamu atau contributor pemula.
 
 - Bahasa utama:
 - Gaya komunikasi:
