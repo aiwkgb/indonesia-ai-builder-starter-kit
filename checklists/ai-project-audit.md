@@ -20,9 +20,17 @@ Baca setiap bagian, lalu centang item yang sudah selesai.
 
 Tidak semua project harus sempurna dari awal. Checklist ini dipakai untuk membantu kamu melihat bagian mana yang sudah rapi dan bagian mana yang perlu diperbaiki.
 
+Kalau checklist ini terasa terlalu panjang, mulai dari checklist yang lebih kecil:
+
+* [`ai-workflow.md`](ai-workflow.md) untuk proses memakai AI dengan aman
+* [`project-review.md`](project-review.md) untuk review project sebelum dibagikan
+* [`github-setup.md`](github-setup.md) untuk kesiapan repository GitHub
+
 ---
 
 ## 1. Project clarity
+
+Mulai dari kejelasan tujuan. Bagian ini membantu memastikan project bisa dijelaskan dengan sederhana.
 
 * [ ] Nama project jelas
 * [ ] Tujuan project dijelaskan dengan sederhana
@@ -40,6 +48,8 @@ Pertanyaan bantu:
 ---
 
 ## 2. README
+
+README adalah pintu masuk utama untuk orang yang baru melihat repo.
 
 * [ ] README tersedia di root repo
 * [ ] README memiliki ringkasan project
@@ -62,6 +72,8 @@ README yang baik sebaiknya menjawab:
 
 ## 3. Repository structure
 
+Struktur folder yang rapi membantu pemula menemukan file penting.
+
 * [ ] Struktur folder mudah dipahami
 * [ ] Folder `docs/` digunakan untuk dokumentasi
 * [ ] Folder `templates/` digunakan untuk template
@@ -83,6 +95,8 @@ Contoh struktur sederhana:
 
 ## 4. Documentation quality
 
+Dokumentasi tidak harus panjang. Yang penting pembaca tahu harus mulai dari mana.
+
 * [ ] Ada dokumentasi getting started
 * [ ] Ada dokumentasi workflow
 * [ ] Ada roadmap
@@ -97,6 +111,8 @@ Untuk project pemula, dokumentasi tidak harus sempurna. Yang penting pembaca tid
 ---
 
 ## 5. Templates and prompts
+
+Template dan prompt sebaiknya langsung bisa dipakai atau diisi oleh pemula.
 
 * [ ] Template punya judul yang jelas
 * [ ] Template menjelaskan kapan harus digunakan
@@ -117,6 +133,8 @@ Pertanyaan bantu:
 
 ## 6. AI workflow readiness
 
+Gunakan bagian ini untuk mengecek apakah peran AI dan manusia sudah jelas.
+
 * [ ] Project menjelaskan bagaimana AI digunakan
 * [ ] Ada pembagian peran antara manusia dan AI
 * [ ] Ada instruksi untuk review hasil AI
@@ -130,6 +148,8 @@ AI sebaiknya diposisikan sebagai partner kerja, bukan pengganti seluruh proses b
 ---
 
 ## 7. GitHub readiness
+
+Bagian ini membantu mengecek apakah repo siap dibaca, direview, atau dikembangkan bertahap.
 
 * [ ] Repo public jika memang ingin open-source
 * [ ] Ada `LICENSE`
@@ -146,6 +166,8 @@ Untuk project open-source awal, riwayat issue dan release membantu menunjukkan b
 ---
 
 ## 8. Beginner-friendliness
+
+Review bagian ini dari sudut pandang orang yang baru belajar.
 
 * [ ] Bahasa utama mudah dipahami
 * [ ] Istilah teknis dijelaskan
@@ -166,6 +188,8 @@ Pertanyaan bantu:
 
 ## 9. Claims and positioning
 
+Gunakan bagian ini untuk menjaga dokumentasi tetap jujur dan tidak berlebihan.
+
 * [ ] Tidak mengklaim punya banyak user jika belum ada bukti
 * [ ] Tidak mengklaim banyak stars jika belum benar
 * [ ] Tidak mengklaim project sudah widely adopted jika belum ada bukti
@@ -182,6 +206,8 @@ Early open-source educational infrastructure for Indonesian beginner AI builders
 
 ## 10. Release readiness
 
+Release sebaiknya dibuat saat milestone sudah jelas dan file penting sudah dicek.
+
 * [ ] Changelog sudah diperbarui
 * [ ] README sudah sinkron dengan isi repo
 * [ ] File penting tidak broken
@@ -196,6 +222,8 @@ Release pertama tidak harus besar. Yang penting jelas, jujur, dan bisa dipakai s
 ---
 
 ## 11. Contributor readiness
+
+Kontribusi pertama sebaiknya mudah dipahami, kecil, dan bisa direview.
 
 * [ ] Contributor tahu cara mulai membantu
 * [ ] Ada issue dengan scope kecil
