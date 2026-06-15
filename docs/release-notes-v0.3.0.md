@@ -1,14 +1,12 @@
-# v0.3.0 Draft Release Notes
+# v0.3.0 Release Notes
 
-These are draft release notes for maintainer review before publishing a GitHub Release.
-
-v0.3.0 is not released yet. Review this document, the readiness checklist, and the final diff before tagging or publishing the release.
+v0.3.0 has been released as a documentation-focused update.
 
 ## Summary
 
 v0.3.0 focuses on beginner-facing documentation improvements for Indonesian AI builders and first-time contributors.
 
-This release draft covers improvements to contributor guidance, issue templates, roadmap navigation, checklists, starter templates, beginner examples, and release preparation notes.
+This release covers improvements to contributor guidance, issue templates, roadmap navigation, checklists, starter templates, beginner examples, and release readiness notes.
 
 ## What changed
 
@@ -41,11 +39,8 @@ The contributor-facing docs and issue templates now give clearer guidance for:
 - Beginner-friendly issue descriptions.
 - Keeping pull requests focused and easy to review.
 
-## Before publishing
+## Post-release notes
 
-- [ ] Confirm v0.3.0 is ready to release.
-- [ ] Review [`docs/v0.3.0-readiness-checklist.md`](v0.3.0-readiness-checklist.md).
-- [ ] Review the final diff for unintended file changes.
-- [ ] Confirm the changelog is accurate.
-- [ ] Confirm no release text claims unsupported adoption, user count, stars, downloads, or large impact.
-- [ ] Confirm these notes still say v0.3.0 is not released until the GitHub Release is actually published.
+- v0.3.0 is a documentation-focused release.
+- The release notes avoid claims about adoption, user count, stars, downloads, or large impact.
+- Future work can continue through GitHub Issues, commits, changelog entries, and later releases.

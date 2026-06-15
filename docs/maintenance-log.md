@@ -18,8 +18,9 @@ Use this log only for lightweight notes, not as a replacement for issues, pull r
 
 ## 2026-06-15
 
+- Updated post-release documentation so v0.3.0 is consistently treated as released in release notes, changelog, README navigation, and readiness checklist.
 - Added v0.3.0 release readiness checklist for documentation, templates, examples, checklists, contributor support, and final manual review.
-- Added draft v0.3.0 release notes for maintainer review before publishing a GitHub Release.
+- Added v0.3.0 release notes for maintainer review and publication.
 - Noted the v0.3.0 documentation improvement batch covering roadmap alignment, beginner checklist clarity, template guidance, example documentation clarity, contributor guidance, and issue template clarity.
 
 ## 2026-06-12

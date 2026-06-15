@@ -1,8 +1,8 @@
 # Changelog
 
-## v0.3.0 - Preparation
+## v0.3.0 - Released
 
-Bagian ini mencatat persiapan dokumentasi untuk v0.3.0. v0.3.0 belum dirilis.
+Bagian ini mencatat perubahan dokumentasi dalam rilis v0.3.0.
 
 - Added v0.3.0 release readiness checklist.
 - Improved v0.3.0 roadmap navigation and planning alignment.
@@ -11,7 +11,7 @@ Bagian ini mencatat persiapan dokumentasi untuk v0.3.0. v0.3.0 belum dirilis.
 - Improved beginner example documentation clarity.
 - Improved contributor guidance and issue template clarity.
 
-Catatan: bagian ini hanya mencatat persiapan release dan tidak berarti v0.3.0 sudah dipublikasikan.
+Catatan: rilis ini berfokus pada dokumentasi dan tidak berarti project sudah punya adopsi luas atau tingkat kematangan production.
 
 ## v0.2.0 - Published
 

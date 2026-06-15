@@ -53,7 +53,7 @@ It provides practical templates, docs, checklists, and examples for AI-assisted 
 
 - [Changelog](CHANGELOG.md)
 - [Release notes v0.2.0](docs/release-notes-v0.2.0.md)
-- [Draft release notes v0.3.0](docs/release-notes-v0.3.0.md)
+- [Release notes v0.3.0](docs/release-notes-v0.3.0.md)
 - [Claude Open Source application draft](docs/claude-open-source-application-draft.md)
 
 ## Contributing
