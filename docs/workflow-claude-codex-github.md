@@ -11,6 +11,14 @@ Panduan ini memakai struktur bilingual ringan. Bahasa Inggris dipertahankan agar
 - Deploy project ke Vercel agar hasilnya bisa dites dan direview secara publik.
 - Setelah testing, buat issue dan perbaiki project secara bertahap.
 
+## English summary
+
+- This guide explains a simple AI-assisted project workflow for Indonesian beginner AI builders.
+- Plan the project with Claude before asking AI to write or change code.
+- Execute carefully with Codex by making small, reviewable changes.
+- Review changes in GitHub so the project history stays clear.
+- Deploy with Vercel when the project is ready to test and review.
+
 ## Overview
 
 This workflow helps beginners use AI tools without losing project direction.
