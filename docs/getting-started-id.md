@@ -4,13 +4,19 @@ Panduan ini dibuat untuk pemula Indonesia yang ingin mulai membangun project den
 
 > Catatan: Panduan ini menggunakan Bahasa Indonesia sebagai bahasa utama. Bagian English summary disediakan agar contributor internasional bisa memahami konteks besarnya.
 
+## Ringkasan singkat
+
+- Panduan ini membantu pemula memahami cara mulai menggunakan repo ini untuk project kecil yang dibantu AI.
+- Panduan ini berguna untuk creator, mahasiswa, solo founder, pemilik bisnis kecil, dan beginner AI builder.
+- Fokus utamanya adalah mulai dari brief yang jelas, memilih template yang sesuai, memakai Claude atau Codex dengan instruksi rapi, lalu menyimpan dan mengembangkan project secara bertahap.
+
 ## English summary
 
-- This Indonesian-first guide helps beginner builders start AI-assisted projects with a simple workflow.
+- This Indonesian-first guide helps beginners understand how to start using this repo for small AI-assisted projects.
+- It is useful for creators, students, solo founders, small business owners, and beginner AI builders.
 - Start with a clear project brief before asking AI to write or edit code.
 - Choose a project type, fill in a PRD or relevant template, then use Claude or Codex with clear instructions.
 - Save the project in GitHub, deploy it with Vercel when ready, and improve it step by step.
-- This guide is intended for Indonesian creators, students, solo founders, small businesses, and beginner builders.
 
 ## Tujuan
 
