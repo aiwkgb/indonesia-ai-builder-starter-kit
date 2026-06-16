@@ -16,6 +16,10 @@ This note summarizes small documentation maintenance changes that support reposi
 
 Use this log only for lightweight notes, not as a replacement for issues, pull requests, changelog entries, or release notes.
 
+## 2026-06-16
+
+- Updated the Claude for Open Source application draft after the v0.3.0 release to reflect current docs, templates, checklists, examples, contributor guidance, release notes, changelog, roadmap, Ecosystem Impact Track positioning, and project limitations.
+
 ## 2026-06-15
 
 - Updated post-release documentation so v0.3.0 is consistently treated as released in release notes, changelog, README navigation, and readiness checklist.

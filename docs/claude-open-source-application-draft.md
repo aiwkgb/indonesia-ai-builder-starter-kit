@@ -2,9 +2,11 @@
 
 This document is a working draft for applying to Claude for Open Source.
 
-It is intentionally written with honest positioning. The project is still early, so the application should focus on clear purpose, public educational value, maintainer commitment, and concrete open-source work already completed.
+It is written for the Ecosystem Impact Track. The project is not being positioned as a large maintainer workload, a production dependency, or a widely adopted ecosystem project. The strongest honest positioning is:
 
-This draft is primarily written in English because it is intended for an application context. The Indonesian summary below helps the maintainer and local contributors understand the positioning clearly.
+> Early open-source educational infrastructure for Indonesian beginner AI builders.
+
+This draft is primarily written in English because it is intended for an application context. The Indonesian summary below helps the maintainer and local contributors keep the positioning clear.
 
 ## Ringkasan Bahasa Indonesia
 
@@ -14,9 +16,9 @@ Positioning utama project:
 
 > Early open-source educational infrastructure for Indonesian beginner AI builders.
 
-Fokus aplikasi ini bukan mengklaim traction besar, melainkan menunjukkan bahwa repository ini adalah fondasi awal yang public, aktif dirapikan, dan berisi dokumentasi, template, checklist, glossary, prompt examples, serta contoh project untuk membantu pemula Indonesia membangun project AI-assisted secara lebih terstruktur.
+Fokus aplikasi ini adalah menunjukkan bahwa repository ini adalah fondasi edukasi open-source yang public, aktif dirawat, dan berisi dokumentasi, template, checklist, contoh project, contributor guidance, release notes, changelog, dan roadmap untuk membantu pemula Indonesia membangun project AI-assisted secara lebih terstruktur.
 
-Gunakan bahasa yang jujur, profesional, dan tidak berlebihan. Hindari klaim seperti banyak user, banyak stars, atau sudah widely adopted jika belum ada bukti nyata.
+Gunakan bahasa yang jujur, profesional, dan tidak berlebihan. Hindari klaim seperti banyak user, banyak stars, banyak download, sudah widely adopted, atau sudah punya impact besar jika belum ada bukti nyata.
 
 ## Project name
 
@@ -26,149 +28,158 @@ Indonesia AI Builder Starter Kit
 
 `aiwkgb/indonesia-ai-builder-starter-kit`
 
-## Suggested positioning
+## Suggested track
 
-Early open-source educational infrastructure for Indonesian beginner AI builders.
+Ecosystem Impact Track
 
-## Short project summary
+This project is best framed as an educational open-source resource for an underserved beginner builder audience, not as a Maintainer Track application for a widely depended-on infrastructure project.
 
-Indonesia AI Builder Starter Kit is an open-source starter kit for Indonesian creators, students, solo founders, small business owners, and beginner builders who want to build practical AI-assisted projects using tools such as Claude, Codex, GitHub, and Vercel.
+## Project summary
 
-The project provides beginner-friendly documentation, templates, checklists, glossary, and example project structures to help users move from scattered AI experiments into clearer project workflows.
+Indonesia AI Builder Starter Kit is an early open-source educational infrastructure project for Indonesian beginner AI builders.
 
-## Problem statement
+The repository helps Indonesian creators, students, solo founders, small business owners, and beginner builders learn how to plan, document, build, save, and improve practical AI-assisted projects using tools such as Claude, Codex, GitHub, and Vercel.
 
-Many Indonesian beginners are interested in building with AI, but the learning path is often fragmented, too technical, and mostly written for experienced English-speaking developers.
+The project provides beginner-friendly docs, templates, checklists, examples, contributor guidance, release notes, a changelog, and a roadmap so beginners can move from scattered AI experiments into clearer project workflows.
 
-This creates a gap for creators, students, solo founders, small business owners, and non-traditional builders who want to use AI tools practically but do not yet understand project planning, GitHub, PRD writing, prompt structure, documentation, version control, deployment, and contribution workflows.
+## Problem being addressed
 
-Indonesia AI Builder Starter Kit aims to reduce that gap by turning practical AI-assisted building workflows into reusable open-source learning resources.
+Many Indonesian beginners are interested in building with AI, but the practical learning path is often fragmented, too technical, and written for experienced English-speaking developers.
 
-## Target users
+Beginners may be able to ask AI tools to generate code, but they often struggle with the surrounding workflow:
+
+- Defining a small project clearly
+- Writing a project brief or PRD
+- Giving Claude or Codex enough context
+- Organizing project files
+- Using GitHub as a source of truth
+- Reviewing AI-assisted changes before commit or deploy
+- Tracking progress through issues, changelog entries, and releases
+- Contributing to open-source projects in a focused and respectful way
+
+Indonesia AI Builder Starter Kit addresses this gap by turning practical AI-assisted building workflows into reusable, public, beginner-friendly learning resources.
+
+## Target audience
 
 The project is designed for:
 
-- Indonesian beginner creators who want to build digital products
-- Students learning AI-assisted coding and GitHub workflow
-- Solo founders validating small product ideas
-- Small business owners who need simple websites or landing pages
-- Beginner builders who are new to Claude, Codex, GitHub, Vercel, documentation, and open-source contribution
+- Indonesian beginner creators who want to build small digital products
+- Students learning AI-assisted coding, documentation, and GitHub workflow
+- Solo founders validating simple product ideas
+- Small business owners creating simple websites, landing pages, or internal tools
+- Self-taught builders who are new to Claude, Codex, GitHub, Vercel, documentation, and open-source contribution
+- Beginner contributors who want a documentation-first open-source project with clear scope
 
-## What the project currently includes
+## What has been built
 
-The current public repository includes:
+The public repository currently includes:
 
 - README with project positioning and navigation
 - MIT License
 - Contributing guide
 - Code of conduct
 - Changelog
-- Beginner documentation
+- Documentation index
+- Beginner getting started guide
+- Claude, Codex, and GitHub workflow guide
 - Indonesian AI builder glossary
-- AI-assisted workflow guide
-- Roadmap
+- Roadmap and v0.3.0 documentation roadmap
 - PRD template
 - Brand guideline template
 - Landing page brief template
 - Claude project instruction template
 - Codex agent instruction template
-- Vercel deployment checklist
-- v0.2.0 release notes
+- Vercel deploy checklist
 - GitHub setup checklist
 - AI workflow checklist
-- Landing page audit checklist
+- Project review checklist
 - AI project audit checklist
 - Beginner project structure example
+- Claude and Codex prompt pack example
 - Digital product landing page example
-- Claude and Codex prompt pack examples
-- GitHub issue templates
+- Beginner-friendly GitHub issue templates
+- Release notes for v0.1.0, v0.2.0, and v0.3.0
+- Maintenance log for small documentation maintenance notes
 
-## Why Claude is relevant
+## Released versions
 
-Claude is useful for the planning and reasoning side of AI-assisted building.
+The project has published these releases:
 
-For this project, Claude can help beginners:
+- `v0.1.0` - initial open-source foundation with README, license, contribution guide, code of conduct, beginner docs, templates, checklists, examples, roadmap, and release notes.
+- `v0.2.0` - documentation and template polishing focused on beginner clarity, AI-assisted workflow guidance, and template usability.
+- `v0.3.0` - documentation-focused release covering contributor guidance, issue templates, roadmap navigation, checklists, starter templates, beginner examples, and release readiness notes.
 
-- Turn unclear ideas into structured project briefs
-- Create PRDs before coding
-- Write better project instructions
-- Improve documentation quality
-- Review project structure
+These releases show active incremental maintenance. They do not imply large adoption, production maturity, or broad ecosystem dependency.
+
+## How Claude helps
+
+Claude is useful for the planning, reasoning, documentation, and educational side of AI-assisted building.
+
+For this project, Claude can help:
+
+- Turn unclear beginner project ideas into structured briefs
+- Draft and improve PRDs before coding starts
+- Refine template instructions so they are easier for beginners to use
+- Review project structure and documentation for clarity
 - Explain technical concepts in beginner-friendly language
-- Help maintainers improve templates and educational material
+- Localize explanations for Indonesian beginner contexts
+- Help maintainers improve docs, checklists, examples, and contributor guidance
+- Help users create clearer Claude project instructions before they build
 
-The project also includes a Claude project instruction template so users can bring clearer context into Claude when planning their own projects.
+The repository already includes a Claude project instruction template so users can bring better context into Claude when planning their own projects.
+
+## Evidence of active maintenance
+
+The project is maintained publicly through:
+
+- GitHub Issues for scoped documentation, template, checklist, and example improvements
+- Small, reviewable commits
+- Changelog updates
+- Release notes for published versions
+- Roadmap and release readiness documents
+- Maintenance log entries for lightweight documentation maintenance
+- Contributor guidance and issue templates for beginner-friendly contribution paths
+
+Recent maintenance has focused on making the repository clearer after the v0.3.0 release, especially around contributor guidance, issue templates, roadmap navigation, checklist clarity, template guidance, beginner example documentation, release notes, and post-release documentation consistency.
 
 ## Ecosystem impact
 
 This project supports the AI builder ecosystem by making AI-assisted project workflows more accessible to Indonesian beginners.
 
-Instead of focusing only on code generation, the project teaches the surrounding workflow that beginners often miss:
+The project focuses on the parts of AI-assisted building that are easy to overlook:
 
-- How to define a project clearly
-- How to write a PRD
-- How to create reusable prompts and instructions
-- How to organize files
-- How to use GitHub as the source of truth
-- How to document project decisions
-- How to iterate through issues and roadmap
-- How to contribute to open-source projects respectfully
+- Planning before coding
+- Writing clearer prompts and project instructions
+- Creating reusable documentation
+- Reviewing AI-generated changes
+- Keeping project files organized
+- Using GitHub to track progress
+- Learning open-source contribution through small documentation improvements
 
-The intended impact is educational and practical: helping more Indonesian beginners understand how to build small, real projects with AI in a structured and open-source-friendly way.
+The intended impact is educational and practical. The project aims to help more Indonesian beginners understand how to build small, real projects with AI in a structured and open-source-friendly way.
 
-## Why this matters for Indonesia
+## Why this matters for Indonesian beginner builders
 
-Indonesia has many creators, students, small businesses, and self-taught builders who are interested in using AI, but many resources are still too technical, scattered, or not localized for beginner contexts.
+Indonesia has many creators, students, small businesses, and self-taught builders who are interested in using AI. Many available resources are still too technical, scattered, or not localized for beginner contexts.
 
-A Bahasa Indonesia-first open-source starter kit can help lower the entry barrier by providing familiar explanations, practical templates, and localized examples.
+A Bahasa Indonesia-first open-source starter kit can lower the entry barrier by providing familiar explanations, practical templates, localized examples, and step-by-step workflows.
 
-This project does not claim large adoption yet. It is an early public foundation that is being actively developed to serve that gap.
+This project does not claim large adoption yet. It is an early public foundation that is being developed to serve that gap honestly and gradually.
 
-## Maintainer commitment
+## Current limitations
 
-The maintainer is actively building the repository in public with a focus on:
+The project is still early.
 
-- Beginner-friendly documentation
-- Honest open-source positioning
-- Clear roadmap
-- Practical templates
-- Realistic examples
-- Inclusive contribution guidelines
-- Step-by-step improvement through issues and commits
+Current limitations:
 
-The goal is to grow the project gradually and transparently instead of overclaiming traction.
+- It is not a complete software framework, CLI tool, or production-ready application starter.
+- It does not yet claim many users, stars, downloads, or broad adoption.
+- It does not yet prove large ecosystem impact.
+- It currently focuses on documentation, templates, checklists, examples, and workflow guidance.
+- More real-world examples, localized use cases, and beginner learning paths can still be added.
+- Some materials may continue to need clarity review as beginners and contributors use the repository.
 
-## Current milestone
-
-The project has reached an initial `v0.1.0` foundation stage and is now being prepared toward `v0.2.0`.
-
-This milestone includes the first set of docs, templates, checklists, glossary, prompt examples, and beginner project structure examples.
-
-## Recent v0.2.0 polishing work
-
-Recent work has focused on improving template quality, beginner clarity, and contributor readiness.
-
-The following resources were polished for clearer beginner usage:
-
-- PRD template
-- Brand guideline template
-- Claude project instruction template
-- Codex agent instruction template
-- Landing page brief template
-- Beginner Vercel deploy checklist
-
-The changelog and v0.2.0 release notes now document this progress more clearly. These updates are part of ongoing release preparation and do not imply wide adoption, production maturity, or large ecosystem impact.
-
-## Near-term roadmap
-
-Next planned improvements include:
-
-- Final documentation audit before v0.2.0
-- Add more real-world example project folders
-- Update README if needed
-- Improve Claude Open Source application draft
-- Review documentation consistency before the next release
-- Prepare release tag when the repository is ready
+These limitations are part of the honest application framing. The project should be presented as a useful early educational foundation, not as a mature or widely adopted platform.
 
 ## Suggested application answer: What are you building?
 
@@ -176,7 +187,7 @@ I am building Indonesia AI Builder Starter Kit, an early open-source educational
 
 The project helps creators, students, solo founders, small business owners, and beginner builders learn how to plan, document, build, save, and improve practical AI-assisted projects using tools such as Claude, Codex, GitHub, and Vercel.
 
-The repository includes beginner-friendly documentation, templates, checklists, an Indonesian AI builder glossary, workflow guides, release notes, and simple example project structures.
+The public repository includes beginner-friendly documentation, templates, checklists, examples, contributor guidance, release notes, a changelog, and a roadmap. The project has published v0.1.0, v0.2.0, and v0.3.0 as incremental documentation-focused releases.
 
 ## Suggested application answer: Who does this help?
 
@@ -188,7 +199,7 @@ The target users include beginner creators, students, solo founders, small busin
 
 The intended impact is to make AI-assisted building more accessible and structured for Indonesian beginners.
 
-Many beginners can generate code with AI, but they often struggle with the surrounding workflow: defining the project, writing a clear brief, organizing files, documenting decisions, using GitHub, creating issues, and iterating safely.
+Many beginners can generate code with AI, but they often struggle with the surrounding workflow: defining the project, writing a clear brief, organizing files, documenting decisions, using GitHub, creating issues, reviewing changes, and iterating safely.
 
 This project aims to provide reusable open-source templates and explanations that help beginners move from scattered AI experiments into clearer project workflows.
 
@@ -202,9 +213,9 @@ Claude can also help users of this starter kit turn rough ideas into structured 
 
 ## Suggested application answer: What have you already built?
 
-The public repository already includes the initial open-source foundation: README, MIT License, contribution guide, code of conduct, changelog, roadmap, beginner documentation, workflow guide, Indonesian AI builder glossary, starter templates, checklists, issue templates, prompt pack examples, a digital product landing page example, release notes, and beginner project structure examples.
+The public repository already includes an open-source foundation: README, MIT License, contribution guide, code of conduct, changelog, roadmap, beginner documentation, workflow guide, Indonesian AI builder glossary, starter templates, checklists, issue templates, prompt pack examples, a digital product landing page example, release notes, and beginner project structure examples.
 
-Recent v0.2.0 preparation improved the PRD template, brand guideline template, Claude project instruction template, Codex agent instruction template, landing page brief template, and beginner Vercel deploy checklist. The changelog and release notes now document this progress more clearly.
+The project has published v0.1.0, v0.2.0, and v0.3.0. The most recent release, v0.3.0, focused on contributor guidance, issue templates, roadmap navigation, checklist clarity, starter template guidance, beginner example documentation, and release readiness notes.
 
 The project is still early, but it is being developed publicly with a clear roadmap and a focus on honest, beginner-friendly educational value.
 
@@ -215,13 +226,17 @@ Do not claim:
 - Large adoption
 - Thousands of stars
 - Many active users
+- Many downloads
 - Production maturity
 - Broad ecosystem recognition
 - Enterprise usage
+- Existing ecosystem dependency
+- Large proven impact
 
 Use honest language such as:
 
 - Early public foundation
+- Early open-source educational infrastructure
 - Beginner-friendly open-source resource
 - Bahasa Indonesia-first educational starter kit
 - Actively maintained and improving
