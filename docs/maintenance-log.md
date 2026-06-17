@@ -18,6 +18,7 @@ Use this log only for lightweight notes, not as a replacement for issues, pull r
 
 ## 2026-06-17
 
+- Added issue #44 project starter decision guide for Indonesian beginners, with README and roadmap navigation updates.
 - Added Indonesian beginner learning paths for creators, students, solo founders, UMKM owners, and first-time contributors, with README and roadmap navigation updates.
 
 ## 2026-06-16

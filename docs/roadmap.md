@@ -54,7 +54,9 @@ See [`docs/v0.3.0-roadmap.md`](v0.3.0-roadmap.md) for the more detailed v0.3.0 p
 ## v0.4.0 planning note
 
 - Continue improving beginner navigation with practical learning paths for creators, students, solo founders, UMKM owners, and first-time contributors.
+- Add a project starter decision guide to help beginners choose the right docs, templates, checklists, and examples for their current goal.
 - Use [`docs/beginner-learning-paths-id.md`](beginner-learning-paths-id.md) as a starting point for future docs, templates, checklist, and example alignment.
+- Use [`docs/project-starter-decision-guide-id.md`](project-starter-decision-guide-id.md) to support goal-based starter navigation.
 
 ## Future ideas
 
