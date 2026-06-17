@@ -16,6 +16,10 @@ This note summarizes small documentation maintenance changes that support reposi
 
 Use this log only for lightweight notes, not as a replacement for issues, pull requests, changelog entries, or release notes.
 
+## 2026-06-17
+
+- Added Indonesian beginner learning paths for creators, students, solo founders, UMKM owners, and first-time contributors, with README and roadmap navigation updates.
+
 ## 2026-06-16
 
 - Updated the Claude for Open Source application draft after the v0.3.0 release to reflect current docs, templates, checklists, examples, contributor guidance, release notes, changelog, roadmap, Ecosystem Impact Track positioning, and project limitations.

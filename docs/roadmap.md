@@ -51,6 +51,11 @@ Use this file as the high-level roadmap. For the more detailed v0.3.0 planning d
 
 See [`docs/v0.3.0-roadmap.md`](v0.3.0-roadmap.md) for the more detailed v0.3.0 planning document.
 
+## v0.4.0 planning note
+
+- Continue improving beginner navigation with practical learning paths for creators, students, solo founders, UMKM owners, and first-time contributors.
+- Use [`docs/beginner-learning-paths-id.md`](beginner-learning-paths-id.md) as a starting point for future docs, templates, checklist, and example alignment.
+
 ## Future ideas
 
 - Community-submitted examples
