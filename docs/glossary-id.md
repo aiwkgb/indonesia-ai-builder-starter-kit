@@ -88,3 +88,19 @@ Contoh:
 > Sistem checkout, penyimpanan user, atau database order.
 
 ### Beginner-friendly
+
+---
+
+## P
+
+### PRD
+
+PRD adalah singkatan dari Product Requirements Document.
+
+PRD adalah dokumen singkat yang menjelaskan produk apa yang ingin dibuat, siapa user-nya, masalah apa yang diselesaikan, fitur apa yang masuk versi pertama, dan apa yang sengaja tidak dibangun dulu.
+
+Contoh:
+
+> PRD untuk aplikasi order tracker kecil menjelaskan siapa yang akan memakai aplikasi, masalah follow-up order yang ingin diselesaikan, layar utama yang dibutuhkan, dan fitur apa yang tidak masuk versi pertama.
+
+Untuk pemula, PRD tidak perlu panjang. Yang penting cukup jelas agar AI tools tidak menebak-nebak arah project.
