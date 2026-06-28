@@ -98,7 +98,7 @@ The public repository currently includes:
 - Claude and Codex prompt pack example
 - Digital product landing page example
 - Beginner-friendly GitHub issue templates
-- Release notes for v0.1.0, v0.2.0, v0.3.0, and v0.4.0
+- Release notes for v0.1.0, v0.2.0, v0.3.0, v0.4.0, and v0.5.0
 - Maintenance log for small documentation maintenance notes
 
 ## Released versions
@@ -109,6 +109,7 @@ The project has published these releases:
 - `v0.2.0` - documentation and template polishing focused on beginner clarity, AI-assisted workflow guidance, and template usability.
 - `v0.3.0` - documentation-focused release covering contributor guidance, issue templates, roadmap navigation, checklists, starter templates, beginner examples, and release readiness notes.
 - `v0.4.0` - Blueprint Lab demo proof update with beginner-friendly planning templates, examples, and public-proof guidance.
+- `v0.5.0` - Public proof screenshot assets update with captured GitHub screenshots and updated checklist status.
 
 These releases show active incremental maintenance. They do not imply large adoption, production maturity, or broad ecosystem dependency.
 
@@ -188,7 +189,7 @@ I am building Indonesia AI Builder Starter Kit, an early open-source educational
 
 The project helps creators, students, solo founders, small business owners, and beginner builders learn how to plan, document, build, save, and improve practical AI-assisted projects using tools such as Claude, Codex, GitHub, and Vercel.
 
-The public repository includes beginner-friendly documentation, templates, checklists, examples, contributor guidance, release notes, a changelog, and a roadmap. The project has published v0.1.0, v0.2.0, v0.3.0, and v0.4.0 as incremental documentation-focused releases.
+The public repository includes beginner-friendly documentation, templates, checklists, examples, contributor guidance, release notes, a changelog, and a roadmap. The project has published v0.1.0, v0.2.0, v0.3.0, v0.4.0, and v0.5.0 as incremental documentation-focused releases.
 
 ## Suggested application answer: Who does this help?
 
@@ -216,7 +217,7 @@ Claude can also help users of this starter kit turn rough ideas into structured 
 
 The public repository already includes an open-source foundation: README, MIT License, contribution guide, code of conduct, changelog, roadmap, beginner documentation, workflow guide, Indonesian AI builder glossary, starter templates, checklists, issue templates, prompt pack examples, a digital product landing page example, release notes, and beginner project structure examples.
 
-The project has published v0.1.0, v0.2.0, v0.3.0, and v0.4.0. The most recent release, v0.4.0, focused on Blueprint Lab demo proof, beginner-friendly planning templates, examples, and public-proof guidance.
+The project has published v0.1.0, v0.2.0, v0.3.0, v0.4.0, and v0.5.0. The most recent release, v0.5.0, focused on public proof screenshot assets and clearer reviewer evidence without overclaiming traction.
 
 The project is still early, but it is being developed publicly with a clear roadmap and a focus on honest, beginner-friendly educational value.
 

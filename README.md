@@ -2,7 +2,7 @@
 
 Open-source starter kit for Indonesian beginner AI builders.
 
-**Current version:** v0.4.0
+**Current version:** v0.5.0
 
 > Bahasa Indonesia-first. Short English summaries are included to help international contributors understand the project context.
 
@@ -75,13 +75,15 @@ For reviewers, grant applications, and portfolio sharing:
 
 - [Blueprint Lab demo walkthrough](blueprint-lab/docs/demo-walkthrough.md) — step-by-step demo showing how a beginner turns a raw idea into a build-ready plan.
 - [Screenshot guide](blueprint-lab/docs/screenshot-guide.md) — privacy rules and recommended screenshots before publishing any images.
-- [Screenshot manifest](assets/screenshots/README.md) — planned screenshot filenames, what each should show, and current capture status.
+- [Screenshot manifest](assets/screenshots/README.md) — captured screenshot assets, filenames, privacy rules, and status.
 
 ## Project notes
 
 - [Changelog](CHANGELOG.md)
 - [Release notes v0.2.0](docs/release-notes-v0.2.0.md)
 - [Release notes v0.3.0](docs/release-notes-v0.3.0.md)
+- [Release notes v0.4.0](docs/release-notes-v0.4.0.md)
+- [Release notes v0.5.0](docs/release-notes-v0.5.0.md)
 - [Claude for Open Source application notes](docs/claude-open-source-application-notes.md)
 
 ## Contributing

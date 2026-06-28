@@ -2,6 +2,16 @@
 
 ## Unreleased
 
+- Future improvements will continue to focus on public-safe proof, beginner clarity, and practical AI-assisted building workflows.
+
+## v0.5.0 - Public proof screenshots
+
+- Added six public-safe screenshot assets under `assets/screenshots/`.
+- Updated the screenshot manifest to mark captured assets as done.
+- Updated the public proof checklist to show screenshot assets are now available while the short demo video remains TODO.
+
+## v0.4.0 - Blueprint Lab demo proof
+
 - Added Blueprint Lab demo walkthrough, screenshot guide, and public proof checklist for AI-credit/portfolio readiness.
 
 - Added SAKA Blueprint Lab Lite for raw idea routing, PRD/GDD-lite planning, AI prompt packs, and resume briefs.
