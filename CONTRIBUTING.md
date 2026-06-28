@@ -14,7 +14,9 @@ You do not need to start with a big feature. Small documentation fixes, clearer 
 
 ## First-time contributor path
 
-If this is your first contribution, start small:
+If this is your first contribution, read the [`Contributor Starter Path`](docs/contributor-starter-path.md) first.
+
+Start small:
 
 1. Read [`README.md`](README.md)
 2. Read [`docs/README.md`](docs/README.md)
@@ -26,6 +28,8 @@ If this is your first contribution, start small:
 8. Wait for review and adjust if needed
 
 ## Good first contributions
+
+If you want to suggest a small task, use the `Good first issue` template in GitHub Issues.
 
 Helpful first contributions include:
 

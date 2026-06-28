@@ -36,6 +36,7 @@ Start with the beginner guide, then continue to the workflow, glossary, roadmap,
 
 ## Open-source readiness
 
+- [`contributor-starter-path.md`](contributor-starter-path.md) — first-time contributor path for small public-safe improvements.
 - [`claude-open-source-application-notes.md`](claude-open-source-application-notes.md) — application notes for Claude for Open Source with honest, non-overclaiming positioning.
 
 ## Recommended reading order
