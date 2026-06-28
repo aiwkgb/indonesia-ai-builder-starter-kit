@@ -18,6 +18,7 @@ Start with the beginner guide, then continue to the workflow, glossary, roadmap,
 
 ## Start here
 
+- [`use-this-repo-in-10-minutes.md`](use-this-repo-in-10-minutes.md) — fast path from one idea to one clear next action.
 - [`../blueprint-lab/README.md`](../blueprint-lab/README.md) — SAKA Blueprint Lab Lite: project level router, PRD/GDD-lite templates, prompt pack, resume brief, and examples for raw app/game ideas.
 - [`getting-started-id.md`](getting-started-id.md) — panduan awal untuk pemula Indonesia yang ingin mulai membangun project dengan bantuan AI.
 - [`workflow-claude-codex-github.md`](workflow-claude-codex-github.md) — alur kerja sederhana untuk menggunakan Claude, Codex, GitHub, dan Vercel.
@@ -39,11 +40,12 @@ Start with the beginner guide, then continue to the workflow, glossary, roadmap,
 
 ## Recommended reading order
 
-1. Read the getting started guide.
-2. Review the Claude + Codex + GitHub workflow.
-3. Use the glossary when you find unfamiliar terms.
-4. Check the roadmap to understand what is planned next.
-5. Explore templates, checklists, and examples from the repository root.
+1. Read the 10-minute guide.
+2. Read the getting started guide.
+3. Review the Claude + Codex + GitHub workflow.
+4. Use the glossary when you find unfamiliar terms.
+5. Check the roadmap to understand what is planned next.
+6. Explore templates, checklists, and examples from the repository root.
 
 ## Related folders
 

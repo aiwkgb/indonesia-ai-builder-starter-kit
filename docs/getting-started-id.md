@@ -4,6 +4,14 @@ Panduan ini dibuat untuk pemula Indonesia yang ingin mulai membangun project den
 
 > Catatan: Panduan ini menggunakan Bahasa Indonesia sebagai bahasa utama. Bagian English summary disediakan agar contributor internasional bisa memahami konteks besarnya.
 
+## Jalur cepat
+
+Kalau kamu hanya punya 10 menit, mulai dari panduan ini dulu:
+
+- [`use-this-repo-in-10-minutes.md`](use-this-repo-in-10-minutes.md)
+
+Setelah itu, kembali ke halaman ini untuk membaca konteks yang lebih lengkap.
+
 ## Ringkasan singkat
 
 - Panduan ini membantu pemula memahami cara mulai menggunakan repo ini untuk project kecil yang dibantu AI.

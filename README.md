@@ -23,12 +23,13 @@ It provides practical templates, docs, checklists, and examples for AI-assisted 
 ## Start here
 
 - [SAKA Blueprint Lab Lite](blueprint-lab/README.md) — turn raw app/game ideas into PRD/GDD-lite, project levels, prompt packs, and resume briefs before using AI coding tools.
-- [Mulai dari Sini / Getting started](docs/getting-started-id.md) — first steps for Indonesian beginner builders.
+- [Use this repo in 10 minutes](docs/use-this-repo-in-10-minutes.md) — a fast path from one idea to one clear next action.
 - [Project starter decision guide](docs/project-starter-decision-guide-id.md) — choose the right starting template for your project.
 - [Documentation index](docs/README.md) — full map for docs, workflows, glossary, release notes, and open-source readiness.
 
 ## Find what you need
 
+- New to the repo? Start with the 10-minute guide, then open the Indonesian getting started guide from the documentation index.
 - Need a demo path? Open the Blueprint Lab demo walkthrough from the documentation index.
 - Not sure which file to open first? Follow the beginner learning paths from the documentation index.
 - Planning a small project? Use the guides in `docs/` and the templates in `templates/`.

@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Added a 10-minute usage guide for beginners who want a fast first path through the repo.
 - Added a public demo video script and sharing draft for the next public proof step.
 - Future improvements will continue to focus on public-safe proof, beginner clarity, and practical AI-assisted building workflows.
 
