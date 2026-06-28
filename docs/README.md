@@ -33,7 +33,7 @@ Start with the beginner guide, then continue to the workflow, glossary, roadmap,
 
 ## Open-source readiness
 
-- [`claude-open-source-application-draft.md`](claude-open-source-application-draft.md) — draft aplikasi Claude for Open Source dengan positioning yang jujur dan tidak berlebihan.
+- [`claude-open-source-application-notes.md`](claude-open-source-application-notes.md) — application notes for Claude for Open Source with honest, non-overclaiming positioning.
 
 ## Recommended reading order
 

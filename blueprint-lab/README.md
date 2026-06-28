@@ -2,6 +2,8 @@
 
 > Turn a raw idea into a simple build plan before asking AI tools to code.
 
+**SAKA** stands for **Sistem AI Kerja Anda**. Here, it is used as a practical Personal AI Office workflow for turning ideas into clear, public-safe build plans.
+
 SAKA Blueprint Lab Lite is a beginner-friendly planning layer for non-technical founders, vibe coders, solo operators, and first-time indie builders.
 
 It helps you decide:
@@ -19,6 +21,12 @@ It helps you decide:
 SAKA Blueprint Lab Lite membantu founder non-teknis dan beginner builder mengubah ide mentah menjadi rencana project yang jelas sebelum masuk ke AI coding/no-code tools.
 
 Tujuannya bukan membuat dokumen berat. Tujuannya adalah membuat kamu tidak mulai dari prompt yang kabur.
+
+## Safety note
+
+Do not put private data into public examples. Use fictional names, placeholder contacts, demo metrics, and sanitized screenshots only.
+
+If you use this workflow for a real client, family, finance, legal, or business case, write a public-safe version before committing it to GitHub.
 
 ## Who this is for
 
@@ -57,12 +65,6 @@ Tujuannya bukan membuat dokumen berat. Tujuannya adalah membuat kamu tidak mulai
 | L3 Monetizable Product | You want to sell or validate with users | Offer, pricing hypothesis, launch plan |
 | L4 Public Proof / Grant Ready | You want portfolio, credits, grant, or investor attention | Demo plan, public proof map, impact narrative |
 | L5 Company Initiative | You are building a long-term company system | Operating model, repo strategy, standards |
-
-## Safety note
-
-Do not put private data into public examples.
-
-Use fictional names, placeholder contacts, demo metrics, and sanitized screenshots only.
 
 ## Why this matters
 

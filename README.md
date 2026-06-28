@@ -2,6 +2,8 @@
 
 Open-source starter kit for Indonesian beginner AI builders.
 
+**Current version:** v0.4.0
+
 > Bahasa Indonesia-first. Short English summaries are included to help international contributors understand the project context.
 
 ## Ringkasan Bahasa Indonesia
@@ -16,32 +18,24 @@ This repository is an early open-source educational starter kit for Indonesian b
 
 It provides practical templates, docs, checklists, and examples for AI-assisted building workflows using tools like Claude, Codex, GitHub, and Vercel.
 
+**SAKA** stands for **Sistem AI Kerja Anda**. In this repo, it means a practical **Personal AI Office** workflow: a lightweight planning, documentation, and AI-assist layer that helps non-technical founders turn raw ideas into organized build tasks.
+
 ## Start here
 
 - [SAKA Blueprint Lab Lite](blueprint-lab/README.md) — turn raw app/game ideas into PRD/GDD-lite, project levels, prompt packs, and resume briefs before using AI coding tools.
-- [Blueprint Lab demo walkthrough](blueprint-lab/docs/demo-walkthrough.md) — see how a raw idea becomes a build-ready plan.
-- [Public proof checklist](docs/public-proof-checklist.md) — review the repo before sharing it as portfolio/AI-credit proof.
-
-- [Mulai dari Sini / Getting started](docs/getting-started-id.md)
-- [Project starter decision guide](docs/project-starter-decision-guide-id.md)
-- [Learning paths untuk beginner builder Indonesia](docs/beginner-learning-paths-id.md)
-- [Workflow Claude + Codex + GitHub](docs/workflow-claude-codex-github.md)
-- [Indonesian AI builder glossary](docs/glossary-id.md)
-- [Documentation index](docs/README.md)
-- [Roadmap](docs/roadmap.md)
-- [Release notes v0.4.0](docs/release-notes-v0.4.0.md)
-- [v0.3.0 documentation roadmap](docs/v0.3.0-roadmap.md)
+- [Mulai dari Sini / Getting started](docs/getting-started-id.md) — first steps for Indonesian beginner builders.
+- [Project starter decision guide](docs/project-starter-decision-guide-id.md) — choose the right starting template for your project.
+- [Documentation index](docs/README.md) — full map for docs, workflows, glossary, release notes, and open-source readiness.
 
 ## Find what you need
 
-- New to the repo? Start with [Mulai dari Sini / Getting started](docs/getting-started-id.md).
-- Choosing the right first file? Open the [Project starter decision guide](docs/project-starter-decision-guide-id.md).
-- Not sure which file to open first? Use [Learning paths untuk beginner builder Indonesia](docs/beginner-learning-paths-id.md).
+- Need a demo path? Open the Blueprint Lab demo walkthrough from the documentation index.
+- Not sure which file to open first? Follow the beginner learning paths from the documentation index.
 - Planning a small project? Use the guides in `docs/` and the templates in `templates/`.
 - Looking for examples? Open `examples/` to see beginner project structures and prompt packs.
 - Reviewing before publish or deploy? Use the checklists in `checklists/`.
-- Want to contribute? Read [CONTRIBUTING.md](CONTRIBUTING.md) and check the GitHub Issues.
-- Following project direction? Read the high-level [Roadmap](docs/roadmap.md), then the detailed [v0.3.0 documentation roadmap](docs/v0.3.0-roadmap.md).
+- Want to contribute? Read `CONTRIBUTING.md` and check the GitHub Issues.
+- Following project direction? Read the high-level roadmap and current release notes from the documentation index.
 
 ## Examples
 
@@ -80,7 +74,7 @@ Original starter templates:
 - [Changelog](CHANGELOG.md)
 - [Release notes v0.2.0](docs/release-notes-v0.2.0.md)
 - [Release notes v0.3.0](docs/release-notes-v0.3.0.md)
-- [Claude Open Source application draft](docs/claude-open-source-application-draft.md)
+- [Claude for Open Source application notes](docs/claude-open-source-application-notes.md)
 
 ## Contributing
 

@@ -36,7 +36,7 @@ Use this checklist before sharing the repo as portfolio proof or applying for AI
 - [ ] Main value can be understood in under 2 minutes.
 - [ ] There is a demo walkthrough.
 - [ ] There are public-safe screenshot instructions.
-- [ ] The repo connects to the broader Fajar/SAKA portfolio narrative.
+- [ ] The repo's educational narrative is self-contained and does not require external context to evaluate.
 
 ## 6. AI credit / OSS support readiness
 

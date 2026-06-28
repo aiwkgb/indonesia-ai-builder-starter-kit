@@ -76,6 +76,21 @@ Choose based on skill and budget.
 - Backend: Supabase or Firebase only if needed
 - Deploy: Vercel, Netlify, GitHub Pages
 
+### Tool glossary
+
+- Lovable: AI app builder for quick prototypes from natural-language prompts.
+- Bolt: browser-based AI coding workspace for building small web apps quickly.
+- Replit: online coding workspace that can run, preview, and deploy projects.
+- v0: AI UI generator for creating React/Next.js interface drafts.
+- Cursor: AI-assisted code editor for refining and debugging a codebase.
+- Codex: AI coding agent for implementation, fixes, and code review tasks.
+- Claude Code: AI coding agent useful for repo understanding, documentation, and structured edits.
+- Supabase: hosted database, auth, and storage for web apps.
+- Firebase: Google-backed backend services for auth, data, hosting, and app features.
+- Vercel: hosting platform commonly used for Next.js and frontend apps.
+- Netlify: hosting platform for static sites and frontend apps.
+- GitHub Pages: free static-site hosting from a GitHub repository.
+
 ## 11. Build phases
 
 ### Phase 1 — Skeleton
