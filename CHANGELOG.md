@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+- Added Blueprint Lab demo walkthrough, screenshot guide, and public proof checklist for AI-credit/portfolio readiness.
+
 - Added SAKA Blueprint Lab Lite for raw idea routing, PRD/GDD-lite planning, AI prompt packs, and resume briefs.
 - Added public-safe examples for a simple app and a mobile idle farming game.
 

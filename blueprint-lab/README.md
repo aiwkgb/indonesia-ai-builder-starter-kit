@@ -36,6 +36,12 @@ Tujuannya bukan membuat dokumen berat. Tujuannya adalah membuat kamu tidak mulai
 4. Use [`templates/ai-prompt-pack.md`](templates/ai-prompt-pack.md) before asking AI tools to build.
 5. Use [`templates/resume-brief.md`](templates/resume-brief.md) when you pause, so you can continue later.
 
+
+## Demo and public proof
+
+- [`docs/demo-walkthrough.md`](docs/demo-walkthrough.md) — step-by-step walkthrough for app and game ideas.
+- [`docs/screenshot-guide.md`](docs/screenshot-guide.md) — safe screenshot/demo rules.
+
 ## Examples
 
 - [`examples/simple-app-blueprint.md`](examples/simple-app-blueprint.md) — example for a simple order/follow-up tool.

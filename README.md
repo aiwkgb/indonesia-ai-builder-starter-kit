@@ -19,6 +19,8 @@ It provides practical templates, docs, checklists, and examples for AI-assisted 
 ## Start here
 
 - [SAKA Blueprint Lab Lite](blueprint-lab/README.md) — turn raw app/game ideas into PRD/GDD-lite, project levels, prompt packs, and resume briefs before using AI coding tools.
+- [Blueprint Lab demo walkthrough](blueprint-lab/docs/demo-walkthrough.md) — see how a raw idea becomes a build-ready plan.
+- [Public proof checklist](docs/public-proof-checklist.md) — review the repo before sharing it as portfolio/AI-credit proof.
 
 - [Mulai dari Sini / Getting started](docs/getting-started-id.md)
 - [Project starter decision guide](docs/project-starter-decision-guide-id.md)
@@ -27,6 +29,7 @@ It provides practical templates, docs, checklists, and examples for AI-assisted 
 - [Indonesian AI builder glossary](docs/glossary-id.md)
 - [Documentation index](docs/README.md)
 - [Roadmap](docs/roadmap.md)
+- [Release notes v0.4.0](docs/release-notes-v0.4.0.md)
 - [v0.3.0 documentation roadmap](docs/v0.3.0-roadmap.md)
 
 ## Find what you need

@@ -25,6 +25,9 @@ Start with the beginner guide, then continue to the workflow, glossary, roadmap,
 
 ## Project direction
 
+- [`public-proof-checklist.md`](public-proof-checklist.md) — checklist before sharing this repo as public proof or AI-credit support material.
+- [`release-notes-v0.4.0.md`](release-notes-v0.4.0.md) — Blueprint Lab demo proof update.
+
 - [`roadmap.md`](roadmap.md) — rencana pengembangan repo secara bertahap.
 - [`release-notes-v0.1.0.md`](release-notes-v0.1.0.md) — catatan rilis awal `v0.1.0`.
 
