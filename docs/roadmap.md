@@ -51,6 +51,13 @@ Use this file as the high-level roadmap. For the more detailed v0.3.0 planning d
 
 See [`docs/v0.3.0-roadmap.md`](v0.3.0-roadmap.md) for the more detailed v0.3.0 planning document.
 
+## v0.4.0 - Blueprint Lab Lite
+
+- Add SAKA Blueprint Lab Lite as a planning layer for non-technical founders and beginner AI builders.
+- Add Project Level Router, PRD Lite, MVP GDD, AI Prompt Pack, and Resume Brief templates.
+- Add fictional examples for a simple app and a mobile idle farming game.
+- Keep all examples public-safe with demo data only.
+
 ## v0.4.0 planning note
 
 - Continue improving beginner navigation with practical learning paths for creators, students, solo founders, UMKM owners, and first-time contributors.

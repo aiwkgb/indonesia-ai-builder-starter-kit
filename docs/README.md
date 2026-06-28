@@ -18,6 +18,7 @@ Start with the beginner guide, then continue to the workflow, glossary, roadmap,
 
 ## Start here
 
+- [`../blueprint-lab/README.md`](../blueprint-lab/README.md) — SAKA Blueprint Lab Lite: project level router, PRD/GDD-lite templates, prompt pack, resume brief, and examples for raw app/game ideas.
 - [`getting-started-id.md`](getting-started-id.md) — panduan awal untuk pemula Indonesia yang ingin mulai membangun project dengan bantuan AI.
 - [`workflow-claude-codex-github.md`](workflow-claude-codex-github.md) — alur kerja sederhana untuk menggunakan Claude, Codex, GitHub, dan Vercel.
 - [`glossary-id.md`](glossary-id.md) — glosarium istilah AI-assisted building dalam Bahasa Indonesia.

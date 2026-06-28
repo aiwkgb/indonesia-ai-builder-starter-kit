@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+- Added SAKA Blueprint Lab Lite for raw idea routing, PRD/GDD-lite planning, AI prompt packs, and resume briefs.
+- Added public-safe examples for a simple app and a mobile idle farming game.
+
+
 ## v0.3.0 - Released
 
 Bagian ini mencatat perubahan dokumentasi dalam rilis v0.3.0.

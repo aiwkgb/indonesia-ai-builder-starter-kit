@@ -18,6 +18,8 @@ It provides practical templates, docs, checklists, and examples for AI-assisted 
 
 ## Start here
 
+- [SAKA Blueprint Lab Lite](blueprint-lab/README.md) — turn raw app/game ideas into PRD/GDD-lite, project levels, prompt packs, and resume briefs before using AI coding tools.
+
 - [Mulai dari Sini / Getting started](docs/getting-started-id.md)
 - [Project starter decision guide](docs/project-starter-decision-guide-id.md)
 - [Learning paths untuk beginner builder Indonesia](docs/beginner-learning-paths-id.md)
@@ -40,11 +42,28 @@ It provides practical templates, docs, checklists, and examples for AI-assisted 
 
 ## Examples
 
+Blueprint Lab examples:
+
+- [Simple app blueprint](blueprint-lab/examples/simple-app-blueprint.md)
+- [Mobile game blueprint](blueprint-lab/examples/mobile-game-blueprint.md)
+
+Existing examples:
+
 - [Beginner project structure](examples/beginner-project-structure/README.md)
 - [Claude + Codex prompt pack](examples/claude-codex-prompt-pack/README.md)
 - [Digital product landing page](examples/digital-product-landing-page/README.md)
 
 ## Templates
+
+Blueprint Lab templates:
+
+- [Project Level Router](blueprint-lab/templates/project-level-router.md)
+- [PRD Lite for AI-assisted builders](blueprint-lab/templates/prd-lite.md)
+- [MVP Game Design Document](blueprint-lab/templates/gdd-mvp.md)
+- [AI Prompt Pack](blueprint-lab/templates/ai-prompt-pack.md)
+- [Resume Brief](blueprint-lab/templates/resume-brief.md)
+
+Original starter templates:
 
 - [PRD template](templates/prd-template.md)
 - [Brand guideline template](templates/brand-guideline-template.md)
