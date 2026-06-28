@@ -136,7 +136,9 @@ The goal is not heavy documentation. The goal is clearer AI-assisted execution.
 
 ## 60-second recording checklist
 
-Use this when recording a future public demo video:
+For the full recording script and sharing draft, use [`public-demo-script.md`](public-demo-script.md).
+
+Use this checklist when recording a future public demo video:
 
 - [ ] Show only public GitHub pages from this repository.
 - [ ] Start with the raw fictional app or game idea.

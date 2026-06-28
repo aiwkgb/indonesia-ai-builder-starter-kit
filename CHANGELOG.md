@@ -2,6 +2,7 @@
 
 ## Unreleased
 
+- Added a public demo video script and sharing draft for the next public proof step.
 - Future improvements will continue to focus on public-safe proof, beginner clarity, and practical AI-assisted building workflows.
 
 ## v0.5.0 - Public proof screenshots
