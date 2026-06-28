@@ -37,7 +37,7 @@ Use this checklist before sharing the repo as portfolio proof or applying for AI
 - [x] Written demo walkthrough exists — [`blueprint-lab/docs/demo-walkthrough.md`](../blueprint-lab/docs/demo-walkthrough.md)
 - [x] Screenshot guide (privacy rules + recommended list) exists — [`blueprint-lab/docs/screenshot-guide.md`](../blueprint-lab/docs/screenshot-guide.md)
 - [x] Screenshot manifest (filenames + status table) exists — [`assets/screenshots/README.md`](../assets/screenshots/README.md)
-- [ ] Actual screenshot files captured and added to `assets/screenshots/` — TODO, not yet done.
+- [x] Actual screenshot files captured and added to `assets/screenshots/`.
 - [ ] Short demo video (60 seconds) recorded — TODO, not yet done.
 - [ ] The repo's educational narrative is self-contained and does not require external context to evaluate.
 

@@ -4,19 +4,18 @@ This folder is reserved for public-safe screenshot assets.
 
 ## Current status
 
-Screenshots are not yet captured. This manifest documents what to capture when ready.
-Actual image files are optional and listed as TODO below.
+Core screenshots were captured from public GitHub repository pages. They show only public repo documentation and demo/template content.
 
 ## Recommended screenshots
 
 | Filename | What to show | Status |
 |----------|-------------|--------|
-| `blueprint-lab-readme.png` | `blueprint-lab/README.md` open on GitHub — shows the lab overview and navigation. | TODO |
-| `project-level-router.png` | `blueprint-lab/templates/project-level-router.md` on GitHub — shows the project classification table. | TODO |
-| `prd-lite-template.png` | `blueprint-lab/templates/prd-lite.md` on GitHub — shows the PRD Lite section headers. | TODO |
-| `gdd-mvp-template.png` | `blueprint-lab/templates/gdd-mvp.md` on GitHub — shows the MVP Game Design Document structure. | TODO |
-| `simple-app-example.png` | `blueprint-lab/examples/simple-app-blueprint.md` on GitHub — shows a filled beginner example. | TODO |
-| `mobile-game-example.png` | `blueprint-lab/examples/mobile-game-blueprint.md` on GitHub — shows the game blueprint example. | TODO |
+| `blueprint-lab-readme.png` | `blueprint-lab/README.md` open on GitHub — shows the lab overview and navigation. | Done |
+| `project-level-router.png` | `blueprint-lab/templates/project-level-router.md` on GitHub — shows the project classification table. | Done |
+| `prd-lite-template.png` | `blueprint-lab/templates/prd-lite.md` on GitHub — shows the PRD Lite section headers. | Done |
+| `gdd-mvp-template.png` | `blueprint-lab/templates/gdd-mvp.md` on GitHub — shows the MVP Game Design Document structure. | Done |
+| `simple-app-example.png` | `blueprint-lab/examples/simple-app-blueprint.md` on GitHub — shows a filled beginner example. | Done |
+| `mobile-game-example.png` | `blueprint-lab/examples/mobile-game-blueprint.md` on GitHub — shows the game blueprint example. | Done |
 
 ## Privacy rules
 
