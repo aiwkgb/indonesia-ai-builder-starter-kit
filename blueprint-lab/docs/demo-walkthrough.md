@@ -133,3 +133,16 @@ Fifth, save a resume brief so the project can continue later.
 
 The goal is not heavy documentation. The goal is clearer AI-assisted execution.
 ```
+
+## 60-second recording checklist
+
+Use this when recording a future public demo video:
+
+- [ ] Show only public GitHub pages from this repository.
+- [ ] Start with the raw fictional app or game idea.
+- [ ] Open the Project Level Router and explain the selected level.
+- [ ] Open PRD Lite or MVP GDD and show how the idea becomes a small plan.
+- [ ] Open the AI Prompt Pack and explain why prompts are staged.
+- [ ] End with the Resume Brief so viewers see how work can continue later.
+- [ ] Do not show private chats, dashboards, local paths, credentials, real client data, or fake metrics.
+- [ ] Keep the video honest: say screenshots/video are demo assets, not traction claims.

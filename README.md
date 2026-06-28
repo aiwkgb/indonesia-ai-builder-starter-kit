@@ -69,6 +69,14 @@ Original starter templates:
 - [Codex agent instruction template](templates/codex-agent-instruction.md)
 - [Vercel deploy checklist](templates/vercel-deploy-checklist.md)
 
+## Public proof / demo assets
+
+For reviewers, grant applications, and portfolio sharing:
+
+- [Blueprint Lab demo walkthrough](blueprint-lab/docs/demo-walkthrough.md) — step-by-step demo showing how a beginner turns a raw idea into a build-ready plan.
+- [Screenshot guide](blueprint-lab/docs/screenshot-guide.md) — privacy rules and recommended screenshots before publishing any images.
+- [Screenshot manifest](assets/screenshots/README.md) — planned screenshot filenames, what each should show, and current capture status.
+
 ## Project notes
 
 - [Changelog](CHANGELOG.md)
